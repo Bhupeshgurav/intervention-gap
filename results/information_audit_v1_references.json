@@ -1,0 +1,110 @@
+[
+  {
+    "range": [
+      320,
+      340
+    ],
+    "cost": "squared",
+    "best_fixed_command": 296.0,
+    "best_fixed_excess": 51.15714432725932,
+    "per_stratum_commands": [
+      302.0,
+      302.0,
+      296.0,
+      296.0,
+      290.0
+    ],
+    "per_stratum_excess": 37.659246920472626,
+    "note": "Reference rules chosen with evaluator truth (in-sample upper bound for stratum-only information); not learned models."
+  },
+  {
+    "range": [
+      320,
+      340
+    ],
+    "cost": "absolute",
+    "best_fixed_command": 296.0,
+    "best_fixed_excess": 2.989833736180705,
+    "per_stratum_commands": [
+      302.0,
+      302.0,
+      296.0,
+      296.0,
+      296.0
+    ],
+    "per_stratum_excess": 2.2452951165898694,
+    "note": "Reference rules chosen with evaluator truth (in-sample upper bound for stratum-only information); not learned models."
+  },
+  {
+    "range": [
+      320,
+      340
+    ],
+    "cost": "capped_squared",
+    "best_fixed_command": 296.0,
+    "best_fixed_excess": 34.65687809250643,
+    "per_stratum_commands": [
+      302.0,
+      302.0,
+      296.0,
+      296.0,
+      296.0
+    ],
+    "per_stratum_excess": 25.313693522530688,
+    "note": "Reference rules chosen with evaluator truth (in-sample upper bound for stratum-only information); not learned models."
+  },
+  {
+    "range": [
+      320,
+      330
+    ],
+    "cost": "squared",
+    "best_fixed_command": 302.0,
+    "best_fixed_excess": 0.0,
+    "per_stratum_commands": [
+      302.0,
+      302.0,
+      302.0,
+      302.0,
+      302.0
+    ],
+    "per_stratum_excess": 0.0,
+    "note": "Reference rules chosen with evaluator truth (in-sample upper bound for stratum-only information); not learned models."
+  },
+  {
+    "range": [
+      320,
+      330
+    ],
+    "cost": "absolute",
+    "best_fixed_command": 302.0,
+    "best_fixed_excess": 0.0,
+    "per_stratum_commands": [
+      302.0,
+      302.0,
+      302.0,
+      302.0,
+      302.0
+    ],
+    "per_stratum_excess": 0.0,
+    "note": "Reference rules chosen with evaluator truth (in-sample upper bound for stratum-only information); not learned models."
+  },
+  {
+    "range": [
+      320,
+      330
+    ],
+    "cost": "capped_squared",
+    "best_fixed_command": 302.0,
+    "best_fixed_excess": 0.0,
+    "per_stratum_commands": [
+      302.0,
+      302.0,
+      302.0,
+      302.0,
+      302.0
+    ],
+    "per_stratum_excess": 0.0,
+    "note": "Reference rules chosen with evaluator truth (in-sample upper bound for stratum-only information); not learned models."
+  }
+]

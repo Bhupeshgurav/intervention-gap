@@ -1,0 +1,21 @@
+{
+  "spatial": [
+    {
+      "nodes": 61,
+      "maximum_mean_change_K2": null
+    },
+    {
+      "nodes": 122,
+      "maximum_mean_change_K2": 2.007576362279295
+    },
+    {
+      "nodes": 244,
+      "maximum_mean_change_K2": 1.2349401870214365
+    },
+    {
+      "nodes": 488,
+      "maximum_mean_change_K2": 0.09039298733728174
+    }
+  ],
+  "temporal_mean_delta_K2": 0.019769932715234972
+}

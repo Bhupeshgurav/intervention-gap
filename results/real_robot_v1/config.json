@@ -1,0 +1,67 @@
+{
+  "task": "Current-input finite-horizon joint-position forecasting; no future actions or measurements",
+  "families": [
+    "Sines",
+    "GPs"
+  ],
+  "seeds": [
+    11,
+    23,
+    47
+  ],
+  "epochs": 60,
+  "stride": 50,
+  "horizon_samples": [
+    10,
+    50,
+    100
+  ],
+  "sample_interval_seconds": 0.001,
+  "features": {
+    "state": [
+      "measured_angles",
+      "measured_velocities"
+    ],
+    "desired": [
+      "measured_angles",
+      "measured_velocities",
+      "desired_torques"
+    ],
+    "execution": [
+      "measured_angles",
+      "measured_velocities",
+      "desired_torques",
+      "constrained_torques",
+      "measured_torques"
+    ]
+  },
+  "training": "Official source training split; source validation chooses MLP epoch; fixed ridge alpha=1; no test tuning",
+  "target": "Position residual beyond constant-velocity prediction; target scaling fitted only on training",
+  "models": [
+    "persistence",
+    "constant_velocity",
+    "ridge_state",
+    "ridge_desired",
+    "ridge_execution",
+    "mlp_state",
+    "mlp_desired",
+    "mlp_execution"
+  ],
+  "network": {
+    "hidden_layers": [
+      64,
+      64
+    ],
+    "activation": "Tanh",
+    "optimizer": "AdamW",
+    "lr": 0.002,
+    "weight_decay": 0.0001,
+    "batch_size": 256
+  },
+  "source_hashes": {
+    "/Users/bhupeshgurav/Documents/ChatGPT/WellFound/research/real_data/run_baselines.py": "47b360ee7ea4a7d6b8c7e510b32b8450b7cd0be73d8734c602e9ffa8bdf705ae",
+    "research/models.py": "c3cc99072f199b6799a3ddc0a86590dbce41097e662ad06fe146c44f456d828d",
+    "research/real_data/loader.py": "8d1bce45ddcd4e696aabdb5b0d24e8cab11a131381f10994d2a0a3dfa0c065d2",
+    "data/transferable_dynamics/manifest.json": "f20a6a28dc930960d0d069f939e08c4bde622cdea21adc404e2aa937c98ec686"
+  }
+}

@@ -1,0 +1,1805 @@
+{
+  "scope": "Post-run descriptive coverage audit, not a new preregistered hypothesis test",
+  "cells": [
+    {
+      "seed": 11,
+      "arm": "base",
+      "concentration": 0.72,
+      "command": 290.0,
+      "n": 41,
+      "temperature_mean_K": 335.3562710386617,
+      "temperature_min_K": 322.0850538542271,
+      "temperature_max_K": 339.61935311938106
+    },
+    {
+      "seed": 11,
+      "arm": "base",
+      "concentration": 0.72,
+      "command": 296.0,
+      "n": 34,
+      "temperature_mean_K": 329.94432070243823,
+      "temperature_min_K": 326.86560262119815,
+      "temperature_max_K": 335.2620683272849
+    },
+    {
+      "seed": 11,
+      "arm": "base",
+      "concentration": 0.72,
+      "command": 302.0,
+      "n": 41,
+      "temperature_mean_K": 324.2904505347238,
+      "temperature_min_K": 320.10519366466383,
+      "temperature_max_K": 338.11131179702824
+    },
+    {
+      "seed": 11,
+      "arm": "base",
+      "concentration": 0.78,
+      "command": 290.0,
+      "n": 27,
+      "temperature_mean_K": 335.961380048771,
+      "temperature_min_K": 325.63825046863985,
+      "temperature_max_K": 339.3525580489337
+    },
+    {
+      "seed": 11,
+      "arm": "base",
+      "concentration": 0.78,
+      "command": 296.0,
+      "n": 25,
+      "temperature_mean_K": 329.9921279310503,
+      "temperature_min_K": 320.91181472419606,
+      "temperature_max_K": 339.1438479576362
+    },
+    {
+      "seed": 11,
+      "arm": "base",
+      "concentration": 0.78,
+      "command": 302.0,
+      "n": 38,
+      "temperature_mean_K": 324.17051869045,
+      "temperature_min_K": 320.13894068050524,
+      "temperature_max_K": 333.12580353003074
+    },
+    {
+      "seed": 11,
+      "arm": "base",
+      "concentration": 0.84,
+      "command": 290.0,
+      "n": 37,
+      "temperature_mean_K": 335.16032178239493,
+      "temperature_min_K": 320.42386763480937,
+      "temperature_max_K": 339.7892262557286
+    },
+    {
+      "seed": 11,
+      "arm": "base",
+      "concentration": 0.84,
+      "command": 296.0,
+      "n": 37,
+      "temperature_mean_K": 330.01699503951903,
+      "temperature_min_K": 320.4272031028496,
+      "temperature_max_K": 339.6020441549734
+    },
+    {
+      "seed": 11,
+      "arm": "base",
+      "concentration": 0.84,
+      "command": 302.0,
+      "n": 21,
+      "temperature_mean_K": 323.00751438391103,
+      "temperature_min_K": 320.22663757036185,
+      "temperature_max_K": 327.7494087378157
+    },
+    {
+      "seed": 11,
+      "arm": "base",
+      "concentration": 0.9,
+      "command": 290.0,
+      "n": 40,
+      "temperature_mean_K": 335.97660371055525,
+      "temperature_min_K": 326.6568415225373,
+      "temperature_max_K": 339.74122742619926
+    },
+    {
+      "seed": 11,
+      "arm": "base",
+      "concentration": 0.9,
+      "command": 296.0,
+      "n": 22,
+      "temperature_mean_K": 330.7494465079948,
+      "temperature_min_K": 324.37516259968555,
+      "temperature_max_K": 339.28811099568
+    },
+    {
+      "seed": 11,
+      "arm": "base",
+      "concentration": 0.9,
+      "command": 302.0,
+      "n": 43,
+      "temperature_mean_K": 324.45953592752574,
+      "temperature_min_K": 320.04315556358966,
+      "temperature_max_K": 334.9342865713925
+    },
+    {
+      "seed": 11,
+      "arm": "base",
+      "concentration": 0.96,
+      "command": 290.0,
+      "n": 28,
+      "temperature_mean_K": 334.6119498392312,
+      "temperature_min_K": 322.53432201831,
+      "temperature_max_K": 339.54850734342534
+    },
+    {
+      "seed": 11,
+      "arm": "base",
+      "concentration": 0.96,
+      "command": 296.0,
+      "n": 38,
+      "temperature_mean_K": 329.8766000051123,
+      "temperature_min_K": 321.75993375628343,
+      "temperature_max_K": 338.72594872182304
+    },
+    {
+      "seed": 11,
+      "arm": "base",
+      "concentration": 0.96,
+      "command": 302.0,
+      "n": 40,
+      "temperature_mean_K": 324.24895773399476,
+      "temperature_min_K": 320.57949082565625,
+      "temperature_max_K": 338.23237004932184
+    },
+    {
+      "seed": 11,
+      "arm": "passive_128",
+      "concentration": 0.72,
+      "command": 290.0,
+      "n": 12,
+      "temperature_mean_K": 335.7730963049764,
+      "temperature_min_K": 328.5611645081925,
+      "temperature_max_K": 339.9653271838542
+    },
+    {
+      "seed": 11,
+      "arm": "passive_128",
+      "concentration": 0.72,
+      "command": 296.0,
+      "n": 4,
+      "temperature_mean_K": 329.78951675285674,
+      "temperature_min_K": 328.1404501368457,
+      "temperature_max_K": 331.45686822004353
+    },
+    {
+      "seed": 11,
+      "arm": "passive_128",
+      "concentration": 0.72,
+      "command": 302.0,
+      "n": 7,
+      "temperature_mean_K": 324.39467072172596,
+      "temperature_min_K": 320.1323514298664,
+      "temperature_max_K": 327.10777510624735
+    },
+    {
+      "seed": 11,
+      "arm": "passive_128",
+      "concentration": 0.78,
+      "command": 290.0,
+      "n": 11,
+      "temperature_mean_K": 334.75797386692454,
+      "temperature_min_K": 326.1546913250942,
+      "temperature_max_K": 339.5934544633597
+    },
+    {
+      "seed": 11,
+      "arm": "passive_128",
+      "concentration": 0.78,
+      "command": 296.0,
+      "n": 9,
+      "temperature_mean_K": 329.87587643748907,
+      "temperature_min_K": 327.69942815254564,
+      "temperature_max_K": 332.62009057194365
+    },
+    {
+      "seed": 11,
+      "arm": "passive_128",
+      "concentration": 0.78,
+      "command": 302.0,
+      "n": 8,
+      "temperature_mean_K": 324.22625066703415,
+      "temperature_min_K": 320.3815073901746,
+      "temperature_max_K": 330.1809379816291
+    },
+    {
+      "seed": 11,
+      "arm": "passive_128",
+      "concentration": 0.84,
+      "command": 290.0,
+      "n": 15,
+      "temperature_mean_K": 335.3942294158722,
+      "temperature_min_K": 323.5972816581144,
+      "temperature_max_K": 339.3575742182452
+    },
+    {
+      "seed": 11,
+      "arm": "passive_128",
+      "concentration": 0.84,
+      "command": 296.0,
+      "n": 12,
+      "temperature_mean_K": 328.8149257417978,
+      "temperature_min_K": 326.8524653402419,
+      "temperature_max_K": 331.65439787798584
+    },
+    {
+      "seed": 11,
+      "arm": "passive_128",
+      "concentration": 0.84,
+      "command": 302.0,
+      "n": 8,
+      "temperature_mean_K": 325.1797554785898,
+      "temperature_min_K": 320.12211193301187,
+      "temperature_max_K": 337.6894500809199
+    },
+    {
+      "seed": 11,
+      "arm": "passive_128",
+      "concentration": 0.9,
+      "command": 290.0,
+      "n": 9,
+      "temperature_mean_K": 335.09294804625705,
+      "temperature_min_K": 324.33114764278014,
+      "temperature_max_K": 339.9159951649394
+    },
+    {
+      "seed": 11,
+      "arm": "passive_128",
+      "concentration": 0.9,
+      "command": 296.0,
+      "n": 8,
+      "temperature_mean_K": 329.5261649818697,
+      "temperature_min_K": 322.00831329174486,
+      "temperature_max_K": 333.00415345263104
+    },
+    {
+      "seed": 11,
+      "arm": "passive_128",
+      "concentration": 0.9,
+      "command": 302.0,
+      "n": 11,
+      "temperature_mean_K": 323.98158911025274,
+      "temperature_min_K": 320.23385243694827,
+      "temperature_max_K": 326.4926800571883
+    },
+    {
+      "seed": 11,
+      "arm": "passive_128",
+      "concentration": 0.96,
+      "command": 290.0,
+      "n": 5,
+      "temperature_mean_K": 336.92386080133645,
+      "temperature_min_K": 335.0642193964952,
+      "temperature_max_K": 338.61300506394434
+    },
+    {
+      "seed": 11,
+      "arm": "passive_128",
+      "concentration": 0.96,
+      "command": 296.0,
+      "n": 4,
+      "temperature_mean_K": 328.8059138858281,
+      "temperature_min_K": 327.8743960558787,
+      "temperature_max_K": 330.7470121054796
+    },
+    {
+      "seed": 11,
+      "arm": "passive_128",
+      "concentration": 0.96,
+      "command": 302.0,
+      "n": 5,
+      "temperature_mean_K": 321.51436835756675,
+      "temperature_min_K": 320.47879475161164,
+      "temperature_max_K": 322.9879818949244
+    },
+    {
+      "seed": 11,
+      "arm": "random_128",
+      "concentration": 0.72,
+      "command": 290.0,
+      "n": 9,
+      "temperature_mean_K": 330.5392915383974,
+      "temperature_min_K": 320.1323514298664,
+      "temperature_max_K": 337.28092337930195
+    },
+    {
+      "seed": 11,
+      "arm": "random_128",
+      "concentration": 0.72,
+      "command": 296.0,
+      "n": 8,
+      "temperature_mean_K": 334.72336509712744,
+      "temperature_min_K": 324.98461319935086,
+      "temperature_max_K": 339.9653271838542
+    },
+    {
+      "seed": 11,
+      "arm": "random_128",
+      "concentration": 0.72,
+      "command": 302.0,
+      "n": 6,
+      "temperature_mean_K": 327.7595621834384,
+      "temperature_min_K": 324.14026585698485,
+      "temperature_max_K": 335.97485483050633
+    },
+    {
+      "seed": 11,
+      "arm": "random_128",
+      "concentration": 0.78,
+      "command": 290.0,
+      "n": 8,
+      "temperature_mean_K": 332.9572930936554,
+      "temperature_min_K": 326.1546913250942,
+      "temperature_max_K": 339.5934544633597
+    },
+    {
+      "seed": 11,
+      "arm": "random_128",
+      "concentration": 0.78,
+      "command": 296.0,
+      "n": 12,
+      "temperature_mean_K": 328.1538337717332,
+      "temperature_min_K": 320.3815073901746,
+      "temperature_max_K": 338.04558360048105
+    },
+    {
+      "seed": 11,
+      "arm": "random_128",
+      "concentration": 0.78,
+      "command": 302.0,
+      "n": 8,
+      "temperature_mean_K": 330.44078197497544,
+      "temperature_min_K": 325.2609430366424,
+      "temperature_max_K": 334.82475454782576
+    },
+    {
+      "seed": 11,
+      "arm": "random_128",
+      "concentration": 0.84,
+      "command": 290.0,
+      "n": 13,
+      "temperature_mean_K": 329.38119587646673,
+      "temperature_min_K": 321.3655869482073,
+      "temperature_max_K": 338.88869162850216
+    },
+    {
+      "seed": 11,
+      "arm": "random_128",
+      "concentration": 0.84,
+      "command": 296.0,
+      "n": 9,
+      "temperature_mean_K": 328.8893754866724,
+      "temperature_min_K": 320.12211193301187,
+      "temperature_max_K": 338.83930031301054
+    },
+    {
+      "seed": 11,
+      "arm": "random_128",
+      "concentration": 0.84,
+      "command": 302.0,
+      "n": 13,
+      "temperature_mean_K": 333.55158986109655,
+      "temperature_min_K": 323.5972816581144,
+      "temperature_max_K": 339.3575742182452
+    },
+    {
+      "seed": 11,
+      "arm": "random_128",
+      "concentration": 0.9,
+      "command": 290.0,
+      "n": 9,
+      "temperature_mean_K": 330.97203679793415,
+      "temperature_min_K": 322.5597102405764,
+      "temperature_max_K": 339.9159951649394
+    },
+    {
+      "seed": 11,
+      "arm": "random_128",
+      "concentration": 0.9,
+      "command": 296.0,
+      "n": 9,
+      "temperature_mean_K": 328.85622612738143,
+      "temperature_min_K": 320.94338279057314,
+      "temperature_max_K": 337.64618161237064
+    },
+    {
+      "seed": 11,
+      "arm": "random_128",
+      "concentration": 0.9,
+      "command": 302.0,
+      "n": 10,
+      "temperature_mean_K": 327.73889661562106,
+      "temperature_min_K": 320.23385243694827,
+      "temperature_max_K": 336.62166479250436
+    },
+    {
+      "seed": 11,
+      "arm": "random_128",
+      "concentration": 0.96,
+      "command": 290.0,
+      "n": 4,
+      "temperature_mean_K": 329.22696213530566,
+      "temperature_min_K": 320.89440279832894,
+      "temperature_max_K": 338.61300506394434
+    },
+    {
+      "seed": 11,
+      "arm": "random_128",
+      "concentration": 0.96,
+      "command": 296.0,
+      "n": 5,
+      "temperature_mean_K": 327.333134406463,
+      "temperature_min_K": 320.47879475161164,
+      "temperature_max_K": 336.0981991280461
+    },
+    {
+      "seed": 11,
+      "arm": "random_128",
+      "concentration": 0.96,
+      "command": 302.0,
+      "n": 5,
+      "temperature_mean_K": 330.76825615285816,
+      "temperature_min_K": 322.9879818949244,
+      "temperature_max_K": 337.981113516038
+    },
+    {
+      "seed": 11,
+      "arm": "random_source",
+      "concentration": 0.72,
+      "command": 290.0,
+      "n": 41,
+      "temperature_mean_K": 330.3367616452221,
+      "temperature_min_K": 320.71654404791275,
+      "temperature_max_K": 339.61935311938106
+    },
+    {
+      "seed": 11,
+      "arm": "random_source",
+      "concentration": 0.72,
+      "command": 296.0,
+      "n": 43,
+      "temperature_mean_K": 329.4467223025522,
+      "temperature_min_K": 320.9086378214855,
+      "temperature_max_K": 339.61039367751624
+    },
+    {
+      "seed": 11,
+      "arm": "random_source",
+      "concentration": 0.72,
+      "command": 302.0,
+      "n": 32,
+      "temperature_mean_K": 329.80019381024545,
+      "temperature_min_K": 320.10519366466383,
+      "temperature_max_K": 339.61000949542074
+    },
+    {
+      "seed": 11,
+      "arm": "random_source",
+      "concentration": 0.78,
+      "command": 290.0,
+      "n": 27,
+      "temperature_mean_K": 329.61657727009,
+      "temperature_min_K": 320.37400975946304,
+      "temperature_max_K": 339.1438479576362
+    },
+    {
+      "seed": 11,
+      "arm": "random_source",
+      "concentration": 0.78,
+      "command": 296.0,
+      "n": 26,
+      "temperature_mean_K": 328.92728817339645,
+      "temperature_min_K": 320.13894068050524,
+      "temperature_max_K": 337.42181007028904
+    },
+    {
+      "seed": 11,
+      "arm": "random_source",
+      "concentration": 0.78,
+      "command": 302.0,
+      "n": 37,
+      "temperature_mean_K": 329.39143489268747,
+      "temperature_min_K": 320.3695405449948,
+      "temperature_max_K": 339.3525580489337
+    },
+    {
+      "seed": 11,
+      "arm": "random_source",
+      "concentration": 0.84,
+      "command": 290.0,
+      "n": 36,
+      "temperature_mean_K": 329.8402853443965,
+      "temperature_min_K": 320.22663757036185,
+      "temperature_max_K": 339.1856480708968
+    },
+    {
+      "seed": 11,
+      "arm": "random_source",
+      "concentration": 0.84,
+      "command": 296.0,
+      "n": 29,
+      "temperature_mean_K": 330.8361823174197,
+      "temperature_min_K": 320.5455570015071,
+      "temperature_max_K": 339.6020441549734
+    },
+    {
+      "seed": 11,
+      "arm": "random_source",
+      "concentration": 0.84,
+      "command": 302.0,
+      "n": 30,
+      "temperature_mean_K": 330.87396549565005,
+      "temperature_min_K": 320.4272031028496,
+      "temperature_max_K": 339.7892262557286
+    },
+    {
+      "seed": 11,
+      "arm": "random_source",
+      "concentration": 0.9,
+      "command": 290.0,
+      "n": 33,
+      "temperature_mean_K": 331.04114814311924,
+      "temperature_min_K": 320.3142907145051,
+      "temperature_max_K": 339.74122742619926
+    },
+    {
+      "seed": 11,
+      "arm": "random_source",
+      "concentration": 0.9,
+      "command": 296.0,
+      "n": 30,
+      "temperature_mean_K": 330.94995308672696,
+      "temperature_min_K": 320.1666734462367,
+      "temperature_max_K": 339.15377521033093
+    },
+    {
+      "seed": 11,
+      "arm": "random_source",
+      "concentration": 0.9,
+      "command": 302.0,
+      "n": 42,
+      "temperature_mean_K": 328.9156079799275,
+      "temperature_min_K": 320.04315556358966,
+      "temperature_max_K": 339.28811099568
+    },
+    {
+      "seed": 11,
+      "arm": "random_source",
+      "concentration": 0.96,
+      "command": 290.0,
+      "n": 32,
+      "temperature_mean_K": 327.31378623822025,
+      "temperature_min_K": 320.57949082565625,
+      "temperature_max_K": 338.6759833814251
+    },
+    {
+      "seed": 11,
+      "arm": "random_source",
+      "concentration": 0.96,
+      "command": 296.0,
+      "n": 34,
+      "temperature_mean_K": 330.9604305515579,
+      "temperature_min_K": 322.2542836332774,
+      "temperature_max_K": 339.4129390356757
+    },
+    {
+      "seed": 11,
+      "arm": "random_source",
+      "concentration": 0.96,
+      "command": 302.0,
+      "n": 40,
+      "temperature_mean_K": 328.692697666913,
+      "temperature_min_K": 320.6242269638315,
+      "temperature_max_K": 339.54850734342534
+    },
+    {
+      "seed": 23,
+      "arm": "base",
+      "concentration": 0.72,
+      "command": 290.0,
+      "n": 38,
+      "temperature_mean_K": 335.16815322252984,
+      "temperature_min_K": 320.14968807198017,
+      "temperature_max_K": 339.47866853902593
+    },
+    {
+      "seed": 23,
+      "arm": "base",
+      "concentration": 0.72,
+      "command": 296.0,
+      "n": 44,
+      "temperature_mean_K": 330.1765432820849,
+      "temperature_min_K": 323.7580307155712,
+      "temperature_max_K": 339.9302765135756
+    },
+    {
+      "seed": 23,
+      "arm": "base",
+      "concentration": 0.72,
+      "command": 302.0,
+      "n": 38,
+      "temperature_mean_K": 324.16851661939677,
+      "temperature_min_K": 320.4631139479331,
+      "temperature_max_K": 337.8231493696561
+    },
+    {
+      "seed": 23,
+      "arm": "base",
+      "concentration": 0.78,
+      "command": 290.0,
+      "n": 30,
+      "temperature_mean_K": 336.78446111304515,
+      "temperature_min_K": 334.04739222578013,
+      "temperature_max_K": 339.6419219340731
+    },
+    {
+      "seed": 23,
+      "arm": "base",
+      "concentration": 0.78,
+      "command": 296.0,
+      "n": 44,
+      "temperature_mean_K": 329.9636764293223,
+      "temperature_min_K": 321.633076087601,
+      "temperature_max_K": 339.5491935463261
+    },
+    {
+      "seed": 23,
+      "arm": "base",
+      "concentration": 0.78,
+      "command": 302.0,
+      "n": 27,
+      "temperature_mean_K": 323.8612734039118,
+      "temperature_min_K": 320.4085026852893,
+      "temperature_max_K": 331.17207482079914
+    },
+    {
+      "seed": 23,
+      "arm": "base",
+      "concentration": 0.84,
+      "command": 290.0,
+      "n": 27,
+      "temperature_mean_K": 335.8557060168483,
+      "temperature_min_K": 325.8680305931871,
+      "temperature_max_K": 339.4446802534347
+    },
+    {
+      "seed": 23,
+      "arm": "base",
+      "concentration": 0.84,
+      "command": 296.0,
+      "n": 30,
+      "temperature_mean_K": 330.8880425698011,
+      "temperature_min_K": 326.86115994521106,
+      "temperature_max_K": 339.0410257212251
+    },
+    {
+      "seed": 23,
+      "arm": "base",
+      "concentration": 0.84,
+      "command": 302.0,
+      "n": 34,
+      "temperature_mean_K": 324.9111755053894,
+      "temperature_min_K": 320.0258409417413,
+      "temperature_max_K": 339.568384753464
+    },
+    {
+      "seed": 23,
+      "arm": "base",
+      "concentration": 0.9,
+      "command": 290.0,
+      "n": 26,
+      "temperature_mean_K": 336.3253340103013,
+      "temperature_min_K": 331.3728745717616,
+      "temperature_max_K": 339.8837509319806
+    },
+    {
+      "seed": 23,
+      "arm": "base",
+      "concentration": 0.9,
+      "command": 296.0,
+      "n": 33,
+      "temperature_mean_K": 330.81101283857726,
+      "temperature_min_K": 326.97294058369977,
+      "temperature_max_K": 339.22384654290477
+    },
+    {
+      "seed": 23,
+      "arm": "base",
+      "concentration": 0.9,
+      "command": 302.0,
+      "n": 40,
+      "temperature_mean_K": 323.9734842252757,
+      "temperature_min_K": 320.20930031979566,
+      "temperature_max_K": 331.4112584595471
+    },
+    {
+      "seed": 23,
+      "arm": "base",
+      "concentration": 0.96,
+      "command": 290.0,
+      "n": 40,
+      "temperature_mean_K": 335.5107871546758,
+      "temperature_min_K": 320.5491549110303,
+      "temperature_max_K": 339.6158204963565
+    },
+    {
+      "seed": 23,
+      "arm": "base",
+      "concentration": 0.96,
+      "command": 296.0,
+      "n": 25,
+      "temperature_mean_K": 330.00485413022756,
+      "temperature_min_K": 326.8128322115891,
+      "temperature_max_K": 336.5348625353158
+    },
+    {
+      "seed": 23,
+      "arm": "base",
+      "concentration": 0.96,
+      "command": 302.0,
+      "n": 36,
+      "temperature_mean_K": 324.6258432026539,
+      "temperature_min_K": 320.2665852011691,
+      "temperature_max_K": 338.4171812422784
+    },
+    {
+      "seed": 23,
+      "arm": "passive_128",
+      "concentration": 0.72,
+      "command": 290.0,
+      "n": 4,
+      "temperature_mean_K": 335.9504426446618,
+      "temperature_min_K": 334.63110319695295,
+      "temperature_max_K": 338.56981627648247
+    },
+    {
+      "seed": 23,
+      "arm": "passive_128",
+      "concentration": 0.72,
+      "command": 296.0,
+      "n": 10,
+      "temperature_mean_K": 330.22747168345245,
+      "temperature_min_K": 320.7863758883709,
+      "temperature_max_K": 333.0684877674844
+    },
+    {
+      "seed": 23,
+      "arm": "passive_128",
+      "concentration": 0.72,
+      "command": 302.0,
+      "n": 8,
+      "temperature_mean_K": 323.25413003915827,
+      "temperature_min_K": 321.5377564544115,
+      "temperature_max_K": 324.9692340283455
+    },
+    {
+      "seed": 23,
+      "arm": "passive_128",
+      "concentration": 0.78,
+      "command": 290.0,
+      "n": 17,
+      "temperature_mean_K": 336.80419114467463,
+      "temperature_min_K": 330.86194355301626,
+      "temperature_max_K": 339.9730356893025
+    },
+    {
+      "seed": 23,
+      "arm": "passive_128",
+      "concentration": 0.78,
+      "command": 296.0,
+      "n": 7,
+      "temperature_mean_K": 331.20467077987905,
+      "temperature_min_K": 328.06202283646155,
+      "temperature_max_K": 333.3032036859782
+    },
+    {
+      "seed": 23,
+      "arm": "passive_128",
+      "concentration": 0.78,
+      "command": 302.0,
+      "n": 8,
+      "temperature_mean_K": 322.9425554924693,
+      "temperature_min_K": 320.12776553254514,
+      "temperature_max_K": 327.00218550400484
+    },
+    {
+      "seed": 23,
+      "arm": "passive_128",
+      "concentration": 0.84,
+      "command": 290.0,
+      "n": 8,
+      "temperature_mean_K": 336.6643452198208,
+      "temperature_min_K": 333.6008666851558,
+      "temperature_max_K": 339.2213314990029
+    },
+    {
+      "seed": 23,
+      "arm": "passive_128",
+      "concentration": 0.84,
+      "command": 296.0,
+      "n": 7,
+      "temperature_mean_K": 329.526956760851,
+      "temperature_min_K": 322.7929208144085,
+      "temperature_max_K": 333.9798630200628
+    },
+    {
+      "seed": 23,
+      "arm": "passive_128",
+      "concentration": 0.84,
+      "command": 302.0,
+      "n": 10,
+      "temperature_mean_K": 323.8092485282411,
+      "temperature_min_K": 320.141187677239,
+      "temperature_max_K": 336.5177189927065
+    },
+    {
+      "seed": 23,
+      "arm": "passive_128",
+      "concentration": 0.9,
+      "command": 290.0,
+      "n": 11,
+      "temperature_mean_K": 332.8790336370184,
+      "temperature_min_K": 320.77388047115625,
+      "temperature_max_K": 339.7762598230892
+    },
+    {
+      "seed": 23,
+      "arm": "passive_128",
+      "concentration": 0.9,
+      "command": 296.0,
+      "n": 9,
+      "temperature_mean_K": 331.52664877750755,
+      "temperature_min_K": 328.6619143693699,
+      "temperature_max_K": 338.1199737710571
+    },
+    {
+      "seed": 23,
+      "arm": "passive_128",
+      "concentration": 0.9,
+      "command": 302.0,
+      "n": 10,
+      "temperature_mean_K": 322.73657317677964,
+      "temperature_min_K": 320.1003732723206,
+      "temperature_max_K": 328.23402993697937
+    },
+    {
+      "seed": 23,
+      "arm": "passive_128",
+      "concentration": 0.96,
+      "command": 290.0,
+      "n": 4,
+      "temperature_mean_K": 334.267479287818,
+      "temperature_min_K": 333.8369235389474,
+      "temperature_max_K": 335.1323867718577
+    },
+    {
+      "seed": 23,
+      "arm": "passive_128",
+      "concentration": 0.96,
+      "command": 296.0,
+      "n": 5,
+      "temperature_mean_K": 329.6005024338818,
+      "temperature_min_K": 327.2407123684625,
+      "temperature_max_K": 332.6864701459339
+    },
+    {
+      "seed": 23,
+      "arm": "passive_128",
+      "concentration": 0.96,
+      "command": 302.0,
+      "n": 10,
+      "temperature_mean_K": 324.58321298682466,
+      "temperature_min_K": 320.375855690989,
+      "temperature_max_K": 332.15454036135816
+    },
+    {
+      "seed": 23,
+      "arm": "random_128",
+      "concentration": 0.72,
+      "command": 290.0,
+      "n": 7,
+      "temperature_mean_K": 327.6635333328178,
+      "temperature_min_K": 322.1952187320023,
+      "temperature_max_K": 332.5733296119446
+    },
+    {
+      "seed": 23,
+      "arm": "random_128",
+      "concentration": 0.72,
+      "command": 296.0,
+      "n": 12,
+      "temperature_mean_K": 329.45457515910624,
+      "temperature_min_K": 320.7863758883709,
+      "temperature_max_K": 338.56981627648247
+    },
+    {
+      "seed": 23,
+      "arm": "random_128",
+      "concentration": 0.72,
+      "command": 302.0,
+      "n": 3,
+      "temperature_mean_K": 328.3366308291463,
+      "temperature_min_K": 323.40808162763085,
+      "temperature_max_K": 332.73165697545215
+    },
+    {
+      "seed": 23,
+      "arm": "random_128",
+      "concentration": 0.78,
+      "command": 290.0,
+      "n": 8,
+      "temperature_mean_K": 333.6506123277237,
+      "temperature_min_K": 322.44208488417934,
+      "temperature_max_K": 338.77265739548346
+    },
+    {
+      "seed": 23,
+      "arm": "random_128",
+      "concentration": 0.78,
+      "command": 296.0,
+      "n": 11,
+      "temperature_mean_K": 330.3463904451321,
+      "temperature_min_K": 321.69184399948085,
+      "temperature_max_K": 339.2237067988781
+    },
+    {
+      "seed": 23,
+      "arm": "random_128",
+      "concentration": 0.78,
+      "command": 302.0,
+      "n": 13,
+      "temperature_mean_K": 332.6637842569334,
+      "temperature_min_K": 320.12776553254514,
+      "temperature_max_K": 339.9730356893025
+    },
+    {
+      "seed": 23,
+      "arm": "random_128",
+      "concentration": 0.84,
+      "command": 290.0,
+      "n": 12,
+      "temperature_mean_K": 330.13343983338456,
+      "temperature_min_K": 320.141187677239,
+      "temperature_max_K": 338.31412878350324
+    },
+    {
+      "seed": 23,
+      "arm": "random_128",
+      "concentration": 0.84,
+      "command": 296.0,
+      "n": 7,
+      "temperature_mean_K": 329.1348790774202,
+      "temperature_min_K": 320.2289150596152,
+      "temperature_max_K": 339.2213314990029
+    },
+    {
+      "seed": 23,
+      "arm": "random_128",
+      "concentration": 0.84,
+      "command": 302.0,
+      "n": 6,
+      "temperature_mean_K": 328.75841880406296,
+      "temperature_min_K": 321.6117670367894,
+      "temperature_max_K": 338.6490953691876
+    },
+    {
+      "seed": 23,
+      "arm": "random_128",
+      "concentration": 0.9,
+      "command": 290.0,
+      "n": 11,
+      "temperature_mean_K": 329.4243616845671,
+      "temperature_min_K": 320.3440731162088,
+      "temperature_max_K": 339.1682820228879
+    },
+    {
+      "seed": 23,
+      "arm": "random_128",
+      "concentration": 0.9,
+      "command": 296.0,
+      "n": 8,
+      "temperature_mean_K": 331.46950503220876,
+      "temperature_min_K": 322.9893578380245,
+      "temperature_max_K": 339.7762598230892
+    },
+    {
+      "seed": 23,
+      "arm": "random_128",
+      "concentration": 0.9,
+      "command": 302.0,
+      "n": 11,
+      "temperature_mean_K": 327.0319019986054,
+      "temperature_min_K": 320.1003732723206,
+      "temperature_max_K": 338.1199737710571
+    },
+    {
+      "seed": 23,
+      "arm": "random_128",
+      "concentration": 0.96,
+      "command": 290.0,
+      "n": 7,
+      "temperature_mean_K": 327.3791316477919,
+      "temperature_min_K": 320.375855690989,
+      "temperature_max_K": 334.0472064385508
+    },
+    {
+      "seed": 23,
+      "arm": "random_128",
+      "concentration": 0.96,
+      "command": 296.0,
+      "n": 6,
+      "temperature_mean_K": 330.2584203924671,
+      "temperature_min_K": 325.1255837167137,
+      "temperature_max_K": 335.1323867718577
+    },
+    {
+      "seed": 23,
+      "arm": "random_128",
+      "concentration": 0.96,
+      "command": 302.0,
+      "n": 6,
+      "temperature_mean_K": 326.2833525499304,
+      "temperature_min_K": 321.0679403230439,
+      "temperature_max_K": 333.8369235389474
+    },
+    {
+      "seed": 23,
+      "arm": "random_source",
+      "concentration": 0.72,
+      "command": 290.0,
+      "n": 43,
+      "temperature_mean_K": 330.91299463267353,
+      "temperature_min_K": 321.1545635024026,
+      "temperature_max_K": 339.9302765135756
+    },
+    {
+      "seed": 23,
+      "arm": "random_source",
+      "concentration": 0.72,
+      "command": 296.0,
+      "n": 37,
+      "temperature_mean_K": 328.97788108073485,
+      "temperature_min_K": 320.14968807198017,
+      "temperature_max_K": 339.47866853902593
+    },
+    {
+      "seed": 23,
+      "arm": "random_source",
+      "concentration": 0.72,
+      "command": 302.0,
+      "n": 40,
+      "temperature_mean_K": 329.52802473031977,
+      "temperature_min_K": 320.8054908909224,
+      "temperature_max_K": 339.1851559021353
+    },
+    {
+      "seed": 23,
+      "arm": "random_source",
+      "concentration": 0.78,
+      "command": 290.0,
+      "n": 31,
+      "temperature_mean_K": 328.04946302699034,
+      "temperature_min_K": 320.52225690355175,
+      "temperature_max_K": 338.85946622639347
+    },
+    {
+      "seed": 23,
+      "arm": "random_source",
+      "concentration": 0.78,
+      "command": 296.0,
+      "n": 36,
+      "temperature_mean_K": 331.4330230554032,
+      "temperature_min_K": 320.4085026852893,
+      "temperature_max_K": 339.5491935463261
+    },
+    {
+      "seed": 23,
+      "arm": "random_source",
+      "concentration": 0.78,
+      "command": 302.0,
+      "n": 34,
+      "temperature_mean_K": 331.32552336341,
+      "temperature_min_K": 320.767832632402,
+      "temperature_max_K": 339.6419219340731
+    },
+    {
+      "seed": 23,
+      "arm": "random_source",
+      "concentration": 0.84,
+      "command": 290.0,
+      "n": 17,
+      "temperature_mean_K": 330.36727133950694,
+      "temperature_min_K": 320.1967482713373,
+      "temperature_max_K": 339.568384753464
+    },
+    {
+      "seed": 23,
+      "arm": "random_source",
+      "concentration": 0.84,
+      "command": 296.0,
+      "n": 37,
+      "temperature_mean_K": 328.5402961620011,
+      "temperature_min_K": 320.0258409417413,
+      "temperature_max_K": 338.5331506380195
+    },
+    {
+      "seed": 23,
+      "arm": "random_source",
+      "concentration": 0.84,
+      "command": 302.0,
+      "n": 37,
+      "temperature_mean_K": 331.6078577288249,
+      "temperature_min_K": 322.2507556392794,
+      "temperature_max_K": 339.4446802534347
+    },
+    {
+      "seed": 23,
+      "arm": "random_source",
+      "concentration": 0.9,
+      "command": 290.0,
+      "n": 27,
+      "temperature_mean_K": 330.9025831588909,
+      "temperature_min_K": 320.6030871298627,
+      "temperature_max_K": 339.80590952355584
+    },
+    {
+      "seed": 23,
+      "arm": "random_source",
+      "concentration": 0.9,
+      "command": 296.0,
+      "n": 38,
+      "temperature_mean_K": 329.2882699644825,
+      "temperature_min_K": 320.2828999541347,
+      "temperature_max_K": 338.29270395943627
+    },
+    {
+      "seed": 23,
+      "arm": "random_source",
+      "concentration": 0.9,
+      "command": 302.0,
+      "n": 34,
+      "temperature_mean_K": 328.6128668532799,
+      "temperature_min_K": 320.20930031979566,
+      "temperature_max_K": 339.8837509319806
+    },
+    {
+      "seed": 23,
+      "arm": "random_source",
+      "concentration": 0.96,
+      "command": 290.0,
+      "n": 31,
+      "temperature_mean_K": 330.3032526441486,
+      "temperature_min_K": 320.57406627716375,
+      "temperature_max_K": 338.82799439595937
+    },
+    {
+      "seed": 23,
+      "arm": "random_source",
+      "concentration": 0.96,
+      "command": 296.0,
+      "n": 39,
+      "temperature_mean_K": 331.22837901810925,
+      "temperature_min_K": 321.0268858177249,
+      "temperature_max_K": 339.6158204963565
+    },
+    {
+      "seed": 23,
+      "arm": "random_source",
+      "concentration": 0.96,
+      "command": 302.0,
+      "n": 31,
+      "temperature_mean_K": 329.02501874398047,
+      "temperature_min_K": 320.2665852011691,
+      "temperature_max_K": 337.94938613904003
+    },
+    {
+      "seed": 47,
+      "arm": "base",
+      "concentration": 0.72,
+      "command": 290.0,
+      "n": 38,
+      "temperature_mean_K": 334.92884431804583,
+      "temperature_min_K": 320.7010780152794,
+      "temperature_max_K": 339.8078933263188
+    },
+    {
+      "seed": 47,
+      "arm": "base",
+      "concentration": 0.72,
+      "command": 296.0,
+      "n": 41,
+      "temperature_mean_K": 329.58204918994943,
+      "temperature_min_K": 322.8495209005639,
+      "temperature_max_K": 337.6728516163546
+    },
+    {
+      "seed": 47,
+      "arm": "base",
+      "concentration": 0.72,
+      "command": 302.0,
+      "n": 38,
+      "temperature_mean_K": 324.20859320024175,
+      "temperature_min_K": 320.02322571603014,
+      "temperature_max_K": 330.95300096009447
+    },
+    {
+      "seed": 47,
+      "arm": "base",
+      "concentration": 0.78,
+      "command": 290.0,
+      "n": 33,
+      "temperature_mean_K": 334.94526399234627,
+      "temperature_min_K": 320.57840435056016,
+      "temperature_max_K": 339.5957179393294
+    },
+    {
+      "seed": 47,
+      "arm": "base",
+      "concentration": 0.78,
+      "command": 296.0,
+      "n": 29,
+      "temperature_mean_K": 329.54667531041014,
+      "temperature_min_K": 320.31040033787053,
+      "temperature_max_K": 339.21968744242866
+    },
+    {
+      "seed": 47,
+      "arm": "base",
+      "concentration": 0.78,
+      "command": 302.0,
+      "n": 26,
+      "temperature_mean_K": 325.4433946126361,
+      "temperature_min_K": 320.7087955475081,
+      "temperature_max_K": 336.79473184910887
+    },
+    {
+      "seed": 47,
+      "arm": "base",
+      "concentration": 0.84,
+      "command": 290.0,
+      "n": 32,
+      "temperature_mean_K": 335.327545172185,
+      "temperature_min_K": 323.2667862263974,
+      "temperature_max_K": 339.9312006351853
+    },
+    {
+      "seed": 47,
+      "arm": "base",
+      "concentration": 0.84,
+      "command": 296.0,
+      "n": 42,
+      "temperature_mean_K": 330.0304076969299,
+      "temperature_min_K": 320.99928922552124,
+      "temperature_max_K": 339.9985652636188
+    },
+    {
+      "seed": 47,
+      "arm": "base",
+      "concentration": 0.84,
+      "command": 302.0,
+      "n": 34,
+      "temperature_mean_K": 324.5088070201346,
+      "temperature_min_K": 320.03010027012635,
+      "temperature_max_K": 339.3312954480454
+    },
+    {
+      "seed": 47,
+      "arm": "base",
+      "concentration": 0.9,
+      "command": 290.0,
+      "n": 42,
+      "temperature_mean_K": 336.1706286388856,
+      "temperature_min_K": 328.68271159987194,
+      "temperature_max_K": 339.99716406841696
+    },
+    {
+      "seed": 47,
+      "arm": "base",
+      "concentration": 0.9,
+      "command": 296.0,
+      "n": 29,
+      "temperature_mean_K": 329.175973420656,
+      "temperature_min_K": 320.2502457508942,
+      "temperature_max_K": 339.4567983601272
+    },
+    {
+      "seed": 47,
+      "arm": "base",
+      "concentration": 0.9,
+      "command": 302.0,
+      "n": 30,
+      "temperature_mean_K": 324.9116128762105,
+      "temperature_min_K": 320.2762563953371,
+      "temperature_max_K": 339.28858925091555
+    },
+    {
+      "seed": 47,
+      "arm": "base",
+      "concentration": 0.96,
+      "command": 290.0,
+      "n": 42,
+      "temperature_mean_K": 335.69429731253837,
+      "temperature_min_K": 323.7006420862297,
+      "temperature_max_K": 339.81920516633255
+    },
+    {
+      "seed": 47,
+      "arm": "base",
+      "concentration": 0.96,
+      "command": 296.0,
+      "n": 33,
+      "temperature_mean_K": 329.8063583009182,
+      "temperature_min_K": 325.363725290729,
+      "temperature_max_K": 337.94535458723266
+    },
+    {
+      "seed": 47,
+      "arm": "base",
+      "concentration": 0.96,
+      "command": 302.0,
+      "n": 23,
+      "temperature_mean_K": 326.0574617151482,
+      "temperature_min_K": 320.05791612970114,
+      "temperature_max_K": 339.81188584892334
+    },
+    {
+      "seed": 47,
+      "arm": "passive_128",
+      "concentration": 0.72,
+      "command": 290.0,
+      "n": 10,
+      "temperature_mean_K": 335.83212722519056,
+      "temperature_min_K": 330.6087424423746,
+      "temperature_max_K": 339.15359894868305
+    },
+    {
+      "seed": 47,
+      "arm": "passive_128",
+      "concentration": 0.72,
+      "command": 296.0,
+      "n": 8,
+      "temperature_mean_K": 330.3517140973315,
+      "temperature_min_K": 327.12312155583345,
+      "temperature_max_K": 333.1515204661506
+    },
+    {
+      "seed": 47,
+      "arm": "passive_128",
+      "concentration": 0.72,
+      "command": 302.0,
+      "n": 4,
+      "temperature_mean_K": 324.7022737270667,
+      "temperature_min_K": 322.2863756754872,
+      "temperature_max_K": 327.3037047987052
+    },
+    {
+      "seed": 47,
+      "arm": "passive_128",
+      "concentration": 0.78,
+      "command": 290.0,
+      "n": 6,
+      "temperature_mean_K": 334.6278145503627,
+      "temperature_min_K": 320.55680861158885,
+      "temperature_max_K": 339.0982153010739
+    },
+    {
+      "seed": 47,
+      "arm": "passive_128",
+      "concentration": 0.78,
+      "command": 296.0,
+      "n": 9,
+      "temperature_mean_K": 332.40329292129786,
+      "temperature_min_K": 328.8471491760921,
+      "temperature_max_K": 337.1455945725883
+    },
+    {
+      "seed": 47,
+      "arm": "passive_128",
+      "concentration": 0.78,
+      "command": 302.0,
+      "n": 7,
+      "temperature_mean_K": 323.15698469050784,
+      "temperature_min_K": 320.0212771526551,
+      "temperature_max_K": 325.8846610143112
+    },
+    {
+      "seed": 47,
+      "arm": "passive_128",
+      "concentration": 0.84,
+      "command": 290.0,
+      "n": 6,
+      "temperature_mean_K": 336.5317782240092,
+      "temperature_min_K": 333.6998444945145,
+      "temperature_max_K": 338.7080307740008
+    },
+    {
+      "seed": 47,
+      "arm": "passive_128",
+      "concentration": 0.84,
+      "command": 296.0,
+      "n": 10,
+      "temperature_mean_K": 328.8188800415448,
+      "temperature_min_K": 320.4193341639414,
+      "temperature_max_K": 336.89324393370276
+    },
+    {
+      "seed": 47,
+      "arm": "passive_128",
+      "concentration": 0.84,
+      "command": 302.0,
+      "n": 7,
+      "temperature_mean_K": 325.62008815694406,
+      "temperature_min_K": 322.16592092115104,
+      "temperature_max_K": 332.3884842854636
+    },
+    {
+      "seed": 47,
+      "arm": "passive_128",
+      "concentration": 0.9,
+      "command": 290.0,
+      "n": 7,
+      "temperature_mean_K": 338.0110005483019,
+      "temperature_min_K": 333.66877637533474,
+      "temperature_max_K": 339.6616993587885
+    },
+    {
+      "seed": 47,
+      "arm": "passive_128",
+      "concentration": 0.9,
+      "command": 296.0,
+      "n": 10,
+      "temperature_mean_K": 330.16086582266104,
+      "temperature_min_K": 324.2523630049273,
+      "temperature_max_K": 334.2246835305526
+    },
+    {
+      "seed": 47,
+      "arm": "passive_128",
+      "concentration": 0.9,
+      "command": 302.0,
+      "n": 17,
+      "temperature_mean_K": 324.9606042299698,
+      "temperature_min_K": 320.0987025685453,
+      "temperature_max_K": 335.0814286636347
+    },
+    {
+      "seed": 47,
+      "arm": "passive_128",
+      "concentration": 0.96,
+      "command": 290.0,
+      "n": 13,
+      "temperature_mean_K": 334.0044169196484,
+      "temperature_min_K": 325.1915641401328,
+      "temperature_max_K": 338.96027007724734
+    },
+    {
+      "seed": 47,
+      "arm": "passive_128",
+      "concentration": 0.96,
+      "command": 296.0,
+      "n": 9,
+      "temperature_mean_K": 330.10237708017075,
+      "temperature_min_K": 327.30324211000243,
+      "temperature_max_K": 333.31590150238134
+    },
+    {
+      "seed": 47,
+      "arm": "passive_128",
+      "concentration": 0.96,
+      "command": 302.0,
+      "n": 5,
+      "temperature_mean_K": 326.8303567875912,
+      "temperature_min_K": 324.1717630483061,
+      "temperature_max_K": 333.4449769249665
+    },
+    {
+      "seed": 47,
+      "arm": "random_128",
+      "concentration": 0.72,
+      "command": 290.0,
+      "n": 8,
+      "temperature_mean_K": 331.6477425562335,
+      "temperature_min_K": 322.2863756754872,
+      "temperature_max_K": 339.15359894868305
+    },
+    {
+      "seed": 47,
+      "arm": "random_128",
+      "concentration": 0.72,
+      "command": 296.0,
+      "n": 9,
+      "temperature_mean_K": 330.88247818812596,
+      "temperature_min_K": 323.50937742732174,
+      "temperature_max_K": 336.2131593207637
+    },
+    {
+      "seed": 47,
+      "arm": "random_128",
+      "concentration": 0.72,
+      "command": 302.0,
+      "n": 5,
+      "temperature_mean_K": 333.76396715916474,
+      "temperature_min_K": 327.12312155583345,
+      "temperature_max_K": 338.64586400995455
+    },
+    {
+      "seed": 47,
+      "arm": "random_128",
+      "concentration": 0.78,
+      "command": 290.0,
+      "n": 9,
+      "temperature_mean_K": 329.94382640816616,
+      "temperature_min_K": 320.55680861158885,
+      "temperature_max_K": 339.0982153010739
+    },
+    {
+      "seed": 47,
+      "arm": "random_128",
+      "concentration": 0.78,
+      "command": 296.0,
+      "n": 4,
+      "temperature_mean_K": 332.8847835898806,
+      "temperature_min_K": 325.8846610143112,
+      "temperature_max_K": 336.58627394413776
+    },
+    {
+      "seed": 47,
+      "arm": "random_128",
+      "concentration": 0.78,
+      "command": 302.0,
+      "n": 9,
+      "temperature_mean_K": 328.94020493271057,
+      "temperature_min_K": 320.0212771526551,
+      "temperature_max_K": 338.08015884229263
+    },
+    {
+      "seed": 47,
+      "arm": "random_128",
+      "concentration": 0.84,
+      "command": 290.0,
+      "n": 7,
+      "temperature_mean_K": 331.75312638512906,
+      "temperature_min_K": 322.16592092115104,
+      "temperature_max_K": 338.2329139984774
+    },
+    {
+      "seed": 47,
+      "arm": "random_128",
+      "concentration": 0.84,
+      "command": 296.0,
+      "n": 9,
+      "temperature_mean_K": 326.13424136928865,
+      "temperature_min_K": 320.4193341639414,
+      "temperature_max_K": 333.6998444945145
+    },
+    {
+      "seed": 47,
+      "arm": "random_128",
+      "concentration": 0.84,
+      "command": 302.0,
+      "n": 7,
+      "temperature_mean_K": 332.7485756912301,
+      "temperature_min_K": 329.04947403603904,
+      "temperature_max_K": 338.7080307740008
+    },
+    {
+      "seed": 47,
+      "arm": "random_128",
+      "concentration": 0.9,
+      "command": 290.0,
+      "n": 11,
+      "temperature_mean_K": 329.6921172786388,
+      "temperature_min_K": 320.0987025685453,
+      "temperature_max_K": 338.71726412787865
+    },
+    {
+      "seed": 47,
+      "arm": "random_128",
+      "concentration": 0.9,
+      "command": 296.0,
+      "n": 15,
+      "temperature_mean_K": 329.9752619867488,
+      "temperature_min_K": 323.39345878253584,
+      "temperature_max_K": 339.56637869092975
+    },
+    {
+      "seed": 47,
+      "arm": "random_128",
+      "concentration": 0.9,
+      "command": 302.0,
+      "n": 8,
+      "temperature_mean_K": 326.9717142634937,
+      "temperature_min_K": 321.74815806520036,
+      "temperature_max_K": 339.6616993587885
+    },
+    {
+      "seed": 47,
+      "arm": "random_128",
+      "concentration": 0.96,
+      "command": 290.0,
+      "n": 6,
+      "temperature_mean_K": 327.47793226220466,
+      "temperature_min_K": 325.16701627744555,
+      "temperature_max_K": 334.4592435267143
+    },
+    {
+      "seed": 47,
+      "arm": "random_128",
+      "concentration": 0.96,
+      "command": 296.0,
+      "n": 10,
+      "temperature_mean_K": 332.46233105880196,
+      "temperature_min_K": 324.1717630483061,
+      "temperature_max_K": 338.96027007724734
+    },
+    {
+      "seed": 47,
+      "arm": "random_128",
+      "concentration": 0.96,
+      "command": 302.0,
+      "n": 11,
+      "temperature_mean_K": 332.51269940487964,
+      "temperature_min_K": 325.1915641401328,
+      "temperature_max_K": 338.80241596603963
+    },
+    {
+      "seed": 47,
+      "arm": "random_source",
+      "concentration": 0.72,
+      "command": 290.0,
+      "n": 31,
+      "temperature_mean_K": 329.3637612108788,
+      "temperature_min_K": 320.57051789613706,
+      "temperature_max_K": 339.8078933263188
+    },
+    {
+      "seed": 47,
+      "arm": "random_source",
+      "concentration": 0.72,
+      "command": 296.0,
+      "n": 38,
+      "temperature_mean_K": 330.5136963839554,
+      "temperature_min_K": 320.15434318388657,
+      "temperature_max_K": 338.96319213686206
+    },
+    {
+      "seed": 47,
+      "arm": "random_source",
+      "concentration": 0.72,
+      "command": 302.0,
+      "n": 48,
+      "temperature_mean_K": 328.964366299069,
+      "temperature_min_K": 320.02322571603014,
+      "temperature_max_K": 339.3473781883865
+    },
+    {
+      "seed": 47,
+      "arm": "random_source",
+      "concentration": 0.78,
+      "command": 290.0,
+      "n": 27,
+      "temperature_mean_K": 329.7365905148664,
+      "temperature_min_K": 320.57840435056016,
+      "temperature_max_K": 339.5957179393294
+    },
+    {
+      "seed": 47,
+      "arm": "random_source",
+      "concentration": 0.78,
+      "command": 296.0,
+      "n": 38,
+      "temperature_mean_K": 330.8027284678645,
+      "temperature_min_K": 320.7087955475081,
+      "temperature_max_K": 339.4622222742689
+    },
+    {
+      "seed": 47,
+      "arm": "random_source",
+      "concentration": 0.78,
+      "command": 302.0,
+      "n": 23,
+      "temperature_mean_K": 330.35582304337476,
+      "temperature_min_K": 320.31040033787053,
+      "temperature_max_K": 339.59531856673135
+    },
+    {
+      "seed": 47,
+      "arm": "random_source",
+      "concentration": 0.84,
+      "command": 290.0,
+      "n": 22,
+      "temperature_mean_K": 330.1336607895587,
+      "temperature_min_K": 320.79897930383464,
+      "temperature_max_K": 339.9985652636188
+    },
+    {
+      "seed": 47,
+      "arm": "random_source",
+      "concentration": 0.84,
+      "command": 296.0,
+      "n": 42,
+      "temperature_mean_K": 330.9932535484044,
+      "temperature_min_K": 320.03010027012635,
+      "temperature_max_K": 339.4687020087234
+    },
+    {
+      "seed": 47,
+      "arm": "random_source",
+      "concentration": 0.84,
+      "command": 302.0,
+      "n": 44,
+      "temperature_mean_K": 328.6454732059608,
+      "temperature_min_K": 320.99857865879216,
+      "temperature_max_K": 339.9312006351853
+    },
+    {
+      "seed": 47,
+      "arm": "random_source",
+      "concentration": 0.9,
+      "command": 290.0,
+      "n": 33,
+      "temperature_mean_K": 332.00906267333374,
+      "temperature_min_K": 321.0809436607986,
+      "temperature_max_K": 339.7773455619309
+    },
+    {
+      "seed": 47,
+      "arm": "random_source",
+      "concentration": 0.9,
+      "command": 296.0,
+      "n": 32,
+      "temperature_mean_K": 331.98711862530035,
+      "temperature_min_K": 320.67290457195395,
+      "temperature_max_K": 339.74171412282675
+    },
+    {
+      "seed": 47,
+      "arm": "random_source",
+      "concentration": 0.9,
+      "command": 302.0,
+      "n": 36,
+      "temperature_mean_K": 328.6869765024697,
+      "temperature_min_K": 320.2502457508942,
+      "temperature_max_K": 339.99716406841696
+    },
+    {
+      "seed": 47,
+      "arm": "random_source",
+      "concentration": 0.96,
+      "command": 290.0,
+      "n": 27,
+      "temperature_mean_K": 330.28797883414796,
+      "temperature_min_K": 320.98767488815815,
+      "temperature_max_K": 339.81920516633255
+    },
+    {
+      "seed": 47,
+      "arm": "random_source",
+      "concentration": 0.96,
+      "command": 296.0,
+      "n": 37,
+      "temperature_mean_K": 331.9510239729554,
+      "temperature_min_K": 320.62520514779607,
+      "temperature_max_K": 339.81188584892334
+    },
+    {
+      "seed": 47,
+      "arm": "random_source",
+      "concentration": 0.96,
+      "command": 302.0,
+      "n": 34,
+      "temperature_mean_K": 331.8273122054109,
+      "temperature_min_K": 320.05791612970114,
+      "temperature_max_K": 339.7950115897654
+    }
+  ]
+}

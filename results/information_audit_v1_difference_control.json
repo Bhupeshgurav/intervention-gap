@@ -1,0 +1,47 @@
+{
+  "note": "Addendum control after independent review; exploratory; same data/evaluator as information_audit_v1 wider interval, q=0.9, MLP, squared cost. Full-state oracle.",
+  "rows": [
+    {
+      "seed": 11,
+      "mode": "history",
+      "cost": "squared",
+      "excess_full_state_oracle": 43.020823176653955,
+      "saved_history_excess": 43.020823176653955
+    },
+    {
+      "seed": 11,
+      "mode": "history_diff",
+      "cost": "squared",
+      "excess_full_state_oracle": 22.423112628269585,
+      "saved_history_excess": null
+    },
+    {
+      "seed": 23,
+      "mode": "history",
+      "cost": "squared",
+      "excess_full_state_oracle": 37.659246920472626,
+      "saved_history_excess": 37.659246920472626
+    },
+    {
+      "seed": 23,
+      "mode": "history_diff",
+      "cost": "squared",
+      "excess_full_state_oracle": 10.86609320253526,
+      "saved_history_excess": null
+    },
+    {
+      "seed": 47,
+      "mode": "history",
+      "cost": "squared",
+      "excess_full_state_oracle": 86.2388076843339,
+      "saved_history_excess": 86.2388076843339
+    },
+    {
+      "seed": 47,
+      "mode": "history_diff",
+      "cost": "squared",
+      "excess_full_state_oracle": 2.282756131084996,
+      "saved_history_excess": null
+    }
+  ]
+}

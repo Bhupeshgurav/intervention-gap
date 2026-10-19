@@ -1,0 +1,32 @@
+{
+  "ranges": [
+    330,
+    340
+  ],
+  "noise": [
+    0,
+    0.0001,
+    0.001
+  ],
+  "noise_seeds": [
+    101,
+    102,
+    103
+  ],
+  "kinetic_factors": [
+    0.9,
+    1,
+    1.1
+  ],
+  "methods": [
+    "finite_difference",
+    "trajectory_fit"
+  ],
+  "fallback_command": 296,
+  "scope": "Known-physics control on previously examined evaluator; not new held-out confirmation",
+  "source_hashes": {
+    "research/process/run_state_estimation.py": "570ac24becb964e6c80db1b988e656ad12213fcfebf0add71afa30ad1741bd90",
+    "research/process/cstr.py": "c03c2ba69a4ff7dd8fe9490bf68eb8278ae156558c4193a58f44c93b15b97501",
+    "research/STATE_ESTIMATION_PROTOCOL.md": "585208900baa895a51f13d93f4d1e4fbd725a4a824922c00c164003447c9f863"
+  }
+}

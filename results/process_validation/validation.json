@@ -1,0 +1,621 @@
+{
+  "scope": "Development-only physical/numerical audit; not a learned-model experiment",
+  "derivative_max_error": 2.842170943040401e-14,
+  "equilibrium_derivative": [
+    -3.4416913763379853e-15,
+    7.105427357601002e-14
+  ],
+  "reference_solver": "SciPy Radau rtol=1e-10 atol=1e-12 applied to pinned upstream derivative",
+  "cases": [
+    {
+      "initial_state": [
+        0.72,
+        315.0
+      ],
+      "command": 290.0,
+      "max_temperature_K": 315.0,
+      "min_concentration": 0.72
+    },
+    {
+      "initial_state": [
+        0.72,
+        315.0
+      ],
+      "command": 296.0,
+      "max_temperature_K": 317.53878917754963,
+      "min_concentration": 0.72
+    },
+    {
+      "initial_state": [
+        0.72,
+        315.0
+      ],
+      "command": 302.0,
+      "max_temperature_K": 323.45407041647746,
+      "min_concentration": 0.72
+    },
+    {
+      "initial_state": [
+        0.72,
+        320.0
+      ],
+      "command": 290.0,
+      "max_temperature_K": 320.0,
+      "min_concentration": 0.72
+    },
+    {
+      "initial_state": [
+        0.72,
+        320.0
+      ],
+      "command": 296.0,
+      "max_temperature_K": 320.0,
+      "min_concentration": 0.72
+    },
+    {
+      "initial_state": [
+        0.72,
+        320.0
+      ],
+      "command": 302.0,
+      "max_temperature_K": 324.413137721537,
+      "min_concentration": 0.72
+    },
+    {
+      "initial_state": [
+        0.72,
+        325.0
+      ],
+      "command": 290.0,
+      "max_temperature_K": 325.0,
+      "min_concentration": 0.72
+    },
+    {
+      "initial_state": [
+        0.72,
+        325.0
+      ],
+      "command": 296.0,
+      "max_temperature_K": 325.0,
+      "min_concentration": 0.72
+    },
+    {
+      "initial_state": [
+        0.72,
+        325.0
+      ],
+      "command": 302.0,
+      "max_temperature_K": 325.6533311108437,
+      "min_concentration": 0.72
+    },
+    {
+      "initial_state": [
+        0.72,
+        330.0
+      ],
+      "command": 290.0,
+      "max_temperature_K": 330.0,
+      "min_concentration": 0.72
+    },
+    {
+      "initial_state": [
+        0.72,
+        330.0
+      ],
+      "command": 296.0,
+      "max_temperature_K": 330.0,
+      "min_concentration": 0.72
+    },
+    {
+      "initial_state": [
+        0.72,
+        330.0
+      ],
+      "command": 302.0,
+      "max_temperature_K": 330.0,
+      "min_concentration": 0.72
+    },
+    {
+      "initial_state": [
+        0.72,
+        335.0
+      ],
+      "command": 290.0,
+      "max_temperature_K": 335.0,
+      "min_concentration": 0.72
+    },
+    {
+      "initial_state": [
+        0.72,
+        335.0
+      ],
+      "command": 296.0,
+      "max_temperature_K": 335.0,
+      "min_concentration": 0.72
+    },
+    {
+      "initial_state": [
+        0.72,
+        335.0
+      ],
+      "command": 302.0,
+      "max_temperature_K": 335.0,
+      "min_concentration": 0.72
+    },
+    {
+      "initial_state": [
+        0.72,
+        340.0
+      ],
+      "command": 290.0,
+      "max_temperature_K": 340.0,
+      "min_concentration": 0.7167873224857971
+    },
+    {
+      "initial_state": [
+        0.72,
+        340.0
+      ],
+      "command": 296.0,
+      "max_temperature_K": 340.0,
+      "min_concentration": 0.7139762963697689
+    },
+    {
+      "initial_state": [
+        0.72,
+        340.0
+      ],
+      "command": 302.0,
+      "max_temperature_K": 343.31939427728577,
+      "min_concentration": 0.6601000523513402
+    },
+    {
+      "initial_state": [
+        0.72,
+        345.0
+      ],
+      "command": 290.0,
+      "max_temperature_K": 345.0,
+      "min_concentration": 0.6823117204845743
+    },
+    {
+      "initial_state": [
+        0.72,
+        345.0
+      ],
+      "command": 296.0,
+      "max_temperature_K": 382.94239832677766,
+      "min_concentration": 0.3630657039060579
+    },
+    {
+      "initial_state": [
+        0.72,
+        345.0
+      ],
+      "command": 302.0,
+      "max_temperature_K": 461.4871615239229,
+      "min_concentration": 0.0023234949410445528
+    },
+    {
+      "initial_state": [
+        0.84,
+        315.0
+      ],
+      "command": 290.0,
+      "max_temperature_K": 315.0,
+      "min_concentration": 0.84
+    },
+    {
+      "initial_state": [
+        0.84,
+        315.0
+      ],
+      "command": 296.0,
+      "max_temperature_K": 317.9605492412226,
+      "min_concentration": 0.84
+    },
+    {
+      "initial_state": [
+        0.84,
+        315.0
+      ],
+      "command": 302.0,
+      "max_temperature_K": 324.19643691935386,
+      "min_concentration": 0.84
+    },
+    {
+      "initial_state": [
+        0.84,
+        320.0
+      ],
+      "command": 290.0,
+      "max_temperature_K": 320.0,
+      "min_concentration": 0.84
+    },
+    {
+      "initial_state": [
+        0.84,
+        320.0
+      ],
+      "command": 296.0,
+      "max_temperature_K": 320.0,
+      "min_concentration": 0.84
+    },
+    {
+      "initial_state": [
+        0.84,
+        320.0
+      ],
+      "command": 302.0,
+      "max_temperature_K": 325.3662519822479,
+      "min_concentration": 0.84
+    },
+    {
+      "initial_state": [
+        0.84,
+        325.0
+      ],
+      "command": 290.0,
+      "max_temperature_K": 325.0,
+      "min_concentration": 0.84
+    },
+    {
+      "initial_state": [
+        0.84,
+        325.0
+      ],
+      "command": 296.0,
+      "max_temperature_K": 325.0,
+      "min_concentration": 0.84
+    },
+    {
+      "initial_state": [
+        0.84,
+        325.0
+      ],
+      "command": 302.0,
+      "max_temperature_K": 326.9896648679493,
+      "min_concentration": 0.84
+    },
+    {
+      "initial_state": [
+        0.84,
+        330.0
+      ],
+      "command": 290.0,
+      "max_temperature_K": 330.0,
+      "min_concentration": 0.8392478229324436
+    },
+    {
+      "initial_state": [
+        0.84,
+        330.0
+      ],
+      "command": 296.0,
+      "max_temperature_K": 330.0,
+      "min_concentration": 0.8384979279849378
+    },
+    {
+      "initial_state": [
+        0.84,
+        330.0
+      ],
+      "command": 302.0,
+      "max_temperature_K": 330.00068922114565,
+      "min_concentration": 0.8270675244691768
+    },
+    {
+      "initial_state": [
+        0.84,
+        335.0
+      ],
+      "command": 290.0,
+      "max_temperature_K": 335.0,
+      "min_concentration": 0.8279885552064321
+    },
+    {
+      "initial_state": [
+        0.84,
+        335.0
+      ],
+      "command": 296.0,
+      "max_temperature_K": 335.0,
+      "min_concentration": 0.8189290273475006
+    },
+    {
+      "initial_state": [
+        0.84,
+        335.0
+      ],
+      "command": 302.0,
+      "max_temperature_K": 336.742175112133,
+      "min_concentration": 0.7614613209891409
+    },
+    {
+      "initial_state": [
+        0.84,
+        340.0
+      ],
+      "command": 290.0,
+      "max_temperature_K": 340.0,
+      "min_concentration": 0.7955204146867026
+    },
+    {
+      "initial_state": [
+        0.84,
+        340.0
+      ],
+      "command": 296.0,
+      "max_temperature_K": 340.1269554690871,
+      "min_concentration": 0.7497151563718891
+    },
+    {
+      "initial_state": [
+        0.84,
+        340.0
+      ],
+      "command": 302.0,
+      "max_temperature_K": 475.51611661235427,
+      "min_concentration": 0.0013403769576959754
+    },
+    {
+      "initial_state": [
+        0.84,
+        345.0
+      ],
+      "command": 290.0,
+      "max_temperature_K": 463.5118891507166,
+      "min_concentration": 0.0021443578376990177
+    },
+    {
+      "initial_state": [
+        0.84,
+        345.0
+      ],
+      "command": 296.0,
+      "max_temperature_K": 481.8220038775985,
+      "min_concentration": 0.0010560638171966306
+    },
+    {
+      "initial_state": [
+        0.84,
+        345.0
+      ],
+      "command": 302.0,
+      "max_temperature_K": 496.17189251445774,
+      "min_concentration": 0.0006279127030285355
+    },
+    {
+      "initial_state": [
+        0.96,
+        315.0
+      ],
+      "command": 290.0,
+      "max_temperature_K": 315.0,
+      "min_concentration": 0.95246058958529
+    },
+    {
+      "initial_state": [
+        0.96,
+        315.0
+      ],
+      "command": 296.0,
+      "max_temperature_K": 318.4176377391819,
+      "min_concentration": 0.9389343362937079
+    },
+    {
+      "initial_state": [
+        0.96,
+        315.0
+      ],
+      "command": 302.0,
+      "max_temperature_K": 325.03976155386806,
+      "min_concentration": 0.9169202649077407
+    },
+    {
+      "initial_state": [
+        0.96,
+        320.0
+      ],
+      "command": 290.0,
+      "max_temperature_K": 320.0,
+      "min_concentration": 0.9462713237652998
+    },
+    {
+      "initial_state": [
+        0.96,
+        320.0
+      ],
+      "command": 296.0,
+      "max_temperature_K": 320.0,
+      "min_concentration": 0.9304122897567213
+    },
+    {
+      "initial_state": [
+        0.96,
+        320.0
+      ],
+      "command": 302.0,
+      "max_temperature_K": 326.5007922303562,
+      "min_concentration": 0.9033113930310219
+    },
+    {
+      "initial_state": [
+        0.96,
+        325.0
+      ],
+      "command": 290.0,
+      "max_temperature_K": 325.0,
+      "min_concentration": 0.9365791149834144
+    },
+    {
+      "initial_state": [
+        0.96,
+        325.0
+      ],
+      "command": 296.0,
+      "max_temperature_K": 325.0,
+      "min_concentration": 0.9179541253838103
+    },
+    {
+      "initial_state": [
+        0.96,
+        325.0
+      ],
+      "command": 302.0,
+      "max_temperature_K": 328.7299735965938,
+      "min_concentration": 0.8817542559494023
+    },
+    {
+      "initial_state": [
+        0.96,
+        330.0
+      ],
+      "command": 290.0,
+      "max_temperature_K": 330.0,
+      "min_concentration": 0.9211956077269093
+    },
+    {
+      "initial_state": [
+        0.96,
+        330.0
+      ],
+      "command": 296.0,
+      "max_temperature_K": 330.0,
+      "min_concentration": 0.8974647862315818
+    },
+    {
+      "initial_state": [
+        0.96,
+        330.0
+      ],
+      "command": 302.0,
+      "max_temperature_K": 333.3183722002999,
+      "min_concentration": 0.8385129881956447
+    },
+    {
+      "initial_state": [
+        0.96,
+        335.0
+      ],
+      "command": 290.0,
+      "max_temperature_K": 335.0,
+      "min_concentration": 0.8937103888963538
+    },
+    {
+      "initial_state": [
+        0.96,
+        335.0
+      ],
+      "command": 296.0,
+      "max_temperature_K": 335.0,
+      "min_concentration": 0.8526813536947649
+    },
+    {
+      "initial_state": [
+        0.96,
+        335.0
+      ],
+      "command": 302.0,
+      "max_temperature_K": 485.20443394005645,
+      "min_concentration": 0.0009322135819443767
+    },
+    {
+      "initial_state": [
+        0.96,
+        340.0
+      ],
+      "command": 290.0,
+      "max_temperature_K": 340.0372026153216,
+      "min_concentration": 0.8204390507848583
+    },
+    {
+      "initial_state": [
+        0.96,
+        340.0
+      ],
+      "command": 296.0,
+      "max_temperature_K": 486.50343093991705,
+      "min_concentration": 0.0008884107576971255
+    },
+    {
+      "initial_state": [
+        0.96,
+        340.0
+      ],
+      "command": 302.0,
+      "max_temperature_K": 509.2138824977131,
+      "min_concentration": 0.0007335861859998204
+    },
+    {
+      "initial_state": [
+        0.96,
+        345.0
+      ],
+      "command": 290.0,
+      "max_temperature_K": 494.82369299700093,
+      "min_concentration": 0.0006581315321558508
+    },
+    {
+      "initial_state": [
+        0.96,
+        345.0
+      ],
+      "command": 296.0,
+      "max_temperature_K": 499.2492372188462,
+      "min_concentration": 0.0005634585225097786
+    },
+    {
+      "initial_state": [
+        0.96,
+        345.0
+      ],
+      "command": 302.0,
+      "max_temperature_K": 510.467698047767,
+      "min_concentration": 0.00038426560840938
+    }
+  ],
+  "rk4_comparison": [
+    {
+      "max_step": 0.005,
+      "success": false,
+      "error": "Invalid RK4 state; reduce step or inspect operating domain",
+      "seconds": 0.0018507919739931822
+    },
+    {
+      "max_step": 0.001,
+      "success": true,
+      "max_abs_error_concentration": 0.013761679567145937,
+      "max_abs_error_temperature_K": 2.879667445977077,
+      "seconds": 0.03897866595070809
+    },
+    {
+      "max_step": 0.0005,
+      "success": true,
+      "max_abs_error_concentration": 0.00027225938818355947,
+      "max_abs_error_temperature_K": 0.056942715802790644,
+      "seconds": 0.07715283299330622
+    },
+    {
+      "max_step": 0.00025,
+      "success": true,
+      "max_abs_error_concentration": 1.0458868451761107e-05,
+      "max_abs_error_temperature_K": 0.0021864756392346862,
+      "seconds": 0.1557841249741614
+    },
+    {
+      "max_step": 0.000125,
+      "success": true,
+      "max_abs_error_concentration": 5.22019274628964e-07,
+      "max_abs_error_temperature_K": 0.00010909671578929192,
+      "seconds": 0.31063554191496223
+    },
+    {
+      "max_step": 6.25e-05,
+      "success": true,
+      "max_abs_error_concentration": 2.920972081918438e-08,
+      "max_abs_error_temperature_K": 6.103615703523246e-06,
+      "seconds": 0.6366029999917373
+    }
+  ]
+}

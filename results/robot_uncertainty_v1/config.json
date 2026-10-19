@@ -1,0 +1,17 @@
+{
+  "model": "mlp_desired",
+  "seeds": [
+    11,
+    23,
+    47
+  ],
+  "horizon_samples": 100,
+  "selection_fraction": 0.2,
+  "score": "Mean across joint dimensions of population variance across three trained model predictions",
+  "metrics": [
+    "Within-rollout Spearman correlation with ensemble-mean squared error",
+    "MSE of top-20%-uncertainty windows / all-window MSE"
+  ],
+  "scope": "Exploratory analysis of existing test predictions; no fitting or threshold selection; not an unseen confirmatory dataset",
+  "source_sha256": "6026cc3bc533280a927630e4b761b8cd72016f165fde36d0e2c169002d2b0320"
+}

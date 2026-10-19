@@ -1,0 +1,97 @@
+{
+  "scope": "Record consistency only. Eligibility does not establish causal identification, calibrated confidence, or safe control. Rejected/unknown executions remain in the audit; excluding them from estimation can introduce selection bias.",
+  "total_records": 7,
+  "eligible_records": 2,
+  "execution_status_counts": {
+    "executed": 6,
+    "unknown": 1
+  },
+  "requested_applied_mismatches": 1,
+  "issue_counts": {
+    "observation_available_after_decision": 1,
+    "execution_not_verified_as_executed": 1,
+    "outcome_censoring_unresolved": 1,
+    "duplicate_episode_id": 2
+  },
+  "observed_cell_counts": [
+    {
+      "machine_id": "fictional-cell",
+      "context_label": "synthetic-stop-type-A",
+      "applied_action": "fictional-option-A",
+      "metric": "synthetic_recovery_duration",
+      "unit": "s",
+      "n": 1
+    },
+    {
+      "machine_id": "fictional-cell",
+      "context_label": "synthetic-stop-type-A",
+      "applied_action": "fictional-option-B",
+      "metric": "synthetic_recovery_duration",
+      "unit": "s",
+      "n": 1
+    }
+  ],
+  "records": [
+    {
+      "index": 0,
+      "episode_id": "synthetic-001",
+      "eligible_for_action_outcome_evaluation": true,
+      "issues": [],
+      "warnings": []
+    },
+    {
+      "index": 1,
+      "episode_id": "synthetic-002",
+      "eligible_for_action_outcome_evaluation": false,
+      "issues": [
+        "observation_available_after_decision"
+      ],
+      "warnings": []
+    },
+    {
+      "index": 2,
+      "episode_id": "synthetic-003",
+      "eligible_for_action_outcome_evaluation": false,
+      "issues": [
+        "execution_not_verified_as_executed"
+      ],
+      "warnings": []
+    },
+    {
+      "index": 3,
+      "episode_id": "synthetic-004",
+      "eligible_for_action_outcome_evaluation": false,
+      "issues": [
+        "outcome_censoring_unresolved"
+      ],
+      "warnings": []
+    },
+    {
+      "index": 4,
+      "episode_id": "synthetic-005",
+      "eligible_for_action_outcome_evaluation": true,
+      "issues": [],
+      "warnings": [
+        "requested_and_applied_actions_differ"
+      ]
+    },
+    {
+      "index": 5,
+      "episode_id": "synthetic-duplicate",
+      "eligible_for_action_outcome_evaluation": false,
+      "issues": [
+        "duplicate_episode_id"
+      ],
+      "warnings": []
+    },
+    {
+      "index": 6,
+      "episode_id": "synthetic-duplicate",
+      "eligible_for_action_outcome_evaluation": false,
+      "issues": [
+        "duplicate_episode_id"
+      ],
+      "warnings": []
+    }
+  ]
+}

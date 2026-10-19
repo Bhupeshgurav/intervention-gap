@@ -1,0 +1,402 @@
+[
+  {
+    "range_high": 340,
+    "method": "passive",
+    "budget": 30,
+    "mean": 295.13933487932246,
+    "median": 296.2950918910967,
+    "min": 31.27818293753353,
+    "max": 557.0026852595076,
+    "seeds": 10
+  },
+  {
+    "range_high": 340,
+    "method": "passive",
+    "budget": 60,
+    "mean": 300.4359893368053,
+    "median": 296.2950918910967,
+    "min": 112.52146013731995,
+    "max": 557.0026852595076,
+    "seeds": 10
+  },
+  {
+    "range_high": 340,
+    "method": "passive",
+    "budget": 120,
+    "mean": 279.2420571006458,
+    "median": 280.65600042232995,
+    "min": 112.52146013731995,
+    "max": 557.0026852595076,
+    "seeds": 10
+  },
+  {
+    "range_high": 340,
+    "method": "passive",
+    "budget": 240,
+    "mean": 182.03304301705862,
+    "median": 112.52146013731995,
+    "min": 0.0,
+    "max": 557.0026852595076,
+    "seeds": 10
+  },
+  {
+    "range_high": 340,
+    "method": "random",
+    "budget": 30,
+    "mean": 295.13933487932246,
+    "median": 296.2950918910967,
+    "min": 31.27818293753353,
+    "max": 557.0026852595076,
+    "seeds": 10
+  },
+  {
+    "range_high": 340,
+    "method": "random",
+    "budget": 60,
+    "mean": 93.32523933179206,
+    "median": 112.52146013731995,
+    "min": 10.56555592715175,
+    "max": 261.90441662384774,
+    "seeds": 10
+  },
+  {
+    "range_high": 340,
+    "method": "random",
+    "budget": 120,
+    "mean": 67.69625457883159,
+    "median": 33.448468571393974,
+    "min": 0.0,
+    "max": 299.4388399033808,
+    "seeds": 10
+  },
+  {
+    "range_high": 340,
+    "method": "random",
+    "budget": 240,
+    "mean": 62.699745152606305,
+    "median": 31.27818293753353,
+    "min": 0.0,
+    "max": 299.4388399033808,
+    "seeds": 10
+  },
+  {
+    "range_high": 340,
+    "method": "stratified",
+    "budget": 30,
+    "mean": 295.13933487932246,
+    "median": 296.2950918910967,
+    "min": 31.27818293753353,
+    "max": 557.0026852595076,
+    "seeds": 10
+  },
+  {
+    "range_high": 340,
+    "method": "stratified",
+    "budget": 60,
+    "mean": 163.33817203133535,
+    "median": 148.7615854145511,
+    "min": 31.27818293753353,
+    "max": 376.34154583544637,
+    "seeds": 10
+  },
+  {
+    "range_high": 340,
+    "method": "stratified",
+    "budget": 120,
+    "mean": 77.07152104910342,
+    "median": 35.61875420525441,
+    "min": 0.0,
+    "max": 295.09826863565996,
+    "seeds": 10
+  },
+  {
+    "range_high": 340,
+    "method": "stratified",
+    "budget": 240,
+    "mean": 11.742181854291498,
+    "median": 4.340571267720884,
+    "min": 0.0,
+    "max": 31.27818293753353,
+    "seeds": 10
+  },
+  {
+    "range_high": 340,
+    "method": "uncertainty",
+    "budget": 30,
+    "mean": 295.13933487932246,
+    "median": 296.2950918910967,
+    "min": 31.27818293753353,
+    "max": 557.0026852595076,
+    "seeds": 10
+  },
+  {
+    "range_high": 340,
+    "method": "uncertainty",
+    "budget": 60,
+    "mean": 191.78831773392932,
+    "median": 164.40067688331786,
+    "min": 31.27818293753353,
+    "max": 475.7594080597213,
+    "seeds": 10
+  },
+  {
+    "range_high": 340,
+    "method": "uncertainty",
+    "budget": 120,
+    "mean": 159.16198655585507,
+    "median": 112.52146013731995,
+    "min": 4.340571267720884,
+    "max": 372.00097456772545,
+    "seeds": 10
+  },
+  {
+    "range_high": 340,
+    "method": "uncertainty",
+    "budget": 240,
+    "mean": 39.8796120033191,
+    "median": 35.61875420525441,
+    "min": 0.0,
+    "max": 112.52146013731995,
+    "seeds": 10
+  },
+  {
+    "range_high": 340,
+    "method": "decision",
+    "budget": 30,
+    "mean": 295.13933487932246,
+    "median": 296.2950918910967,
+    "min": 31.27818293753353,
+    "max": 557.0026852595076,
+    "seeds": 10
+  },
+  {
+    "range_high": 340,
+    "method": "decision",
+    "budget": 60,
+    "mean": 230.69167009143786,
+    "median": 273.20293682489364,
+    "min": 0.0,
+    "max": 480.09997932744216,
+    "seeds": 10
+  },
+  {
+    "range_high": 340,
+    "method": "decision",
+    "budget": 120,
+    "mean": 89.46489497813498,
+    "median": 76.90270593206552,
+    "min": 0.0,
+    "max": 376.34154583544637,
+    "seeds": 10
+  },
+  {
+    "range_high": 340,
+    "method": "decision",
+    "budget": 240,
+    "mean": 23.372406281008164,
+    "median": 4.340571267720884,
+    "min": 0.0,
+    "max": 81.2432771997864,
+    "seeds": 10
+  },
+  {
+    "range_high": 338,
+    "method": "passive",
+    "budget": 30,
+    "mean": 143.71386743144782,
+    "median": 137.2957137682236,
+    "min": 0.0,
+    "max": 268.841429576513,
+    "seeds": 10
+  },
+  {
+    "range_high": 338,
+    "method": "passive",
+    "budget": 60,
+    "mean": 122.30513331043775,
+    "median": 74.02969067432662,
+    "min": 0.0,
+    "max": 268.841429576513,
+    "seeds": 10
+  },
+  {
+    "range_high": 338,
+    "method": "passive",
+    "budget": 120,
+    "mean": 149.17681738307814,
+    "median": 134.42071478825653,
+    "min": 0.0,
+    "max": 268.841429576513,
+    "seeds": 10
+  },
+  {
+    "range_high": 338,
+    "method": "passive",
+    "budget": 240,
+    "mean": 102.81772997771365,
+    "median": 73.967396249272,
+    "min": 0.0,
+    "max": 268.841429576513,
+    "seeds": 10
+  },
+  {
+    "range_high": 338,
+    "method": "random",
+    "budget": 30,
+    "mean": 143.71386743144782,
+    "median": 137.2957137682236,
+    "min": 0.0,
+    "max": 268.841429576513,
+    "seeds": 10
+  },
+  {
+    "range_high": 338,
+    "method": "random",
+    "budget": 60,
+    "mean": 35.45579994458717,
+    "median": 0.06229442505461051,
+    "min": 0.0,
+    "max": 194.74944447713182,
+    "seeds": 10
+  },
+  {
+    "range_high": 338,
+    "method": "random",
+    "budget": 120,
+    "mean": 27.484060523666564,
+    "median": 0.06229442505461051,
+    "min": 0.0,
+    "max": 194.74944447713182,
+    "seeds": 10
+  },
+  {
+    "range_high": 338,
+    "method": "random",
+    "budget": 240,
+    "mean": 34.30580035260034,
+    "median": 0.06229442505461051,
+    "min": 0.0,
+    "max": 194.87403332724102,
+    "seeds": 10
+  },
+  {
+    "range_high": 338,
+    "method": "stratified",
+    "budget": 30,
+    "mean": 143.71386743144782,
+    "median": 137.2957137682236,
+    "min": 0.0,
+    "max": 268.841429576513,
+    "seeds": 10
+  },
+  {
+    "range_high": 338,
+    "method": "stratified",
+    "budget": 60,
+    "mean": 73.28060701804856,
+    "median": 37.04599254969061,
+    "min": 0.0,
+    "max": 194.87403332724102,
+    "seeds": 10
+  },
+  {
+    "range_high": 338,
+    "method": "stratified",
+    "budget": 120,
+    "mean": 41.76483440258215,
+    "median": 0.12458885010922102,
+    "min": 0.0,
+    "max": 194.87403332724102,
+    "seeds": 10
+  },
+  {
+    "range_high": 338,
+    "method": "stratified",
+    "budget": 240,
+    "mean": 0.08721219507645471,
+    "median": 0.12458885010922102,
+    "min": 0.0,
+    "max": 0.12458885010922102,
+    "seeds": 10
+  },
+  {
+    "range_high": 338,
+    "method": "uncertainty",
+    "budget": 30,
+    "mean": 143.71386743144782,
+    "median": 137.2957137682236,
+    "min": 0.0,
+    "max": 268.841429576513,
+    "seeds": 10
+  },
+  {
+    "range_high": 338,
+    "method": "uncertainty",
+    "budget": 60,
+    "mean": 95.47082589283015,
+    "median": 74.02969067432662,
+    "min": 0.0,
+    "max": 268.7168407264038,
+    "seeds": 10
+  },
+  {
+    "range_high": 338,
+    "method": "uncertainty",
+    "budget": 120,
+    "mean": 61.18994331025165,
+    "median": 0.06229442505461051,
+    "min": 0.0,
+    "max": 268.841429576513,
+    "seeds": 10
+  },
+  {
+    "range_high": 338,
+    "method": "uncertainty",
+    "budget": 240,
+    "mean": 7.409198509938122,
+    "median": 0.0,
+    "min": 0.0,
+    "max": 73.967396249272,
+    "seeds": 10
+  },
+  {
+    "range_high": 338,
+    "method": "decision",
+    "budget": 30,
+    "mean": 143.71386743144782,
+    "median": 137.2957137682236,
+    "min": 0.0,
+    "max": 268.841429576513,
+    "seeds": 10
+  },
+  {
+    "range_high": 338,
+    "method": "decision",
+    "budget": 60,
+    "mean": 100.12737332066709,
+    "median": 73.967396249272,
+    "min": 0.0,
+    "max": 268.841429576513,
+    "seeds": 10
+  },
+  {
+    "range_high": 338,
+    "method": "decision",
+    "budget": 120,
+    "mean": 80.66488775796483,
+    "median": 37.04599254969061,
+    "min": 0.0,
+    "max": 268.7168407264038,
+    "seeds": 10
+  },
+  {
+    "range_high": 338,
+    "method": "decision",
+    "budget": 240,
+    "mean": 19.51232110274595,
+    "median": 0.0,
+    "min": 0.0,
+    "max": 194.74944447713182,
+    "seeds": 10
+  }
+]

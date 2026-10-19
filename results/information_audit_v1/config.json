@@ -1,0 +1,48 @@
+{
+  "seeds": [
+    11,
+    23,
+    47
+  ],
+  "ranges": [
+    [
+      320,
+      340
+    ],
+    [
+      320,
+      330
+    ]
+  ],
+  "q": [
+    0.3333333333333333,
+    0.6,
+    0.9
+  ],
+  "modes": [
+    "snapshot",
+    "history",
+    "sensor"
+  ],
+  "models": [
+    "ridge",
+    "mlp"
+  ],
+  "epochs": 160,
+  "train_n": 512,
+  "test_n": 1000,
+  "evaluator_seed": 20261016,
+  "costs": [
+    "squared",
+    "absolute",
+    "capped_squared"
+  ],
+  "oracle": "Full-state privileged per-episode oracle for ALL modes; not matched information",
+  "warmup": 0.02,
+  "source_hashes": {
+    "research/process/run_information_audit.py": "e1e3ea84ee911c929620ac754882bc06e0277032c2bf18265e9b2a025cb431d1",
+    "research/models.py": "c3cc99072f199b6799a3ddc0a86590dbce41097e662ad06fe146c44f456d828d",
+    "research/process/cstr.py": "c03c2ba69a4ff7dd8fe9490bf68eb8278ae156558c4193a58f44c93b15b97501",
+    "research/FOLLOWUP_PROTOCOL.md": "217e9f63679845b23e14116aa8dd6b76d4f355b02247cad50f2031997e25bf5e"
+  }
+}

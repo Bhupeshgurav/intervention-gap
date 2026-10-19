@@ -1,0 +1,50 @@
+{
+  "seeds": [
+    101,
+    102,
+    103,
+    104,
+    105,
+    106,
+    107,
+    108,
+    109,
+    110
+  ],
+  "ranges": [
+    [
+      320,
+      340
+    ],
+    [
+      322,
+      338
+    ]
+  ],
+  "methods": [
+    "passive",
+    "random",
+    "stratified",
+    "uncertainty",
+    "decision"
+  ],
+  "budgets": [
+    30,
+    60,
+    120,
+    240
+  ],
+  "batch": 15,
+  "initial_per_cell": 2,
+  "costs": [
+    "squared",
+    "absolute",
+    "capped_squared"
+  ],
+  "source_hashes": {
+    "research/process/run_acquisition.py": "6ada25ed20a67957b1acb49c3b371da32394c0f61cfe342ccdad24d5c486fc59",
+    "research/process/run_information_audit.py": "e1e3ea84ee911c929620ac754882bc06e0277032c2bf18265e9b2a025cb431d1",
+    "research/process/cstr.py": "c03c2ba69a4ff7dd8fe9490bf68eb8278ae156558c4193a58f44c93b15b97501",
+    "research/ACQUISITION_PROTOCOL.md": "490beaa612d39cc42ceca698821e5681ca465d0b4c407bf033120d09e651d750"
+  }
+}

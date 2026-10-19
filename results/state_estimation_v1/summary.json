@@ -1,0 +1,92 @@
+[
+  {
+    "noise_sd": 0,
+    "k0_factor": 1,
+    "method": "finite_difference",
+    "temperature_rmse_K": 0.000693853033265585,
+    "valid_fraction": 1.0,
+    "boundary_fraction": 0.0,
+    "fallback_population_excess": 0.0
+  },
+  {
+    "noise_sd": 0,
+    "k0_factor": 1,
+    "method": "trajectory_fit",
+    "temperature_rmse_K": 2.9982607170875804e-07,
+    "valid_fraction": 1.0,
+    "boundary_fraction": 0.0,
+    "fallback_population_excess": 0.0
+  },
+  {
+    "noise_sd": 0.0001,
+    "k0_factor": 1,
+    "method": "finite_difference",
+    "temperature_rmse_K": 2.2463049434581532,
+    "valid_fraction": 0.9996666666666667,
+    "boundary_fraction": 0.0,
+    "fallback_population_excess": 1.023827980192286
+  },
+  {
+    "noise_sd": 0.0001,
+    "k0_factor": 1,
+    "method": "trajectory_fit",
+    "temperature_rmse_K": 0.6070579598593508,
+    "valid_fraction": 1.0,
+    "boundary_fraction": 0.0,
+    "fallback_population_excess": 0.0832542639789959
+  },
+  {
+    "noise_sd": 0.001,
+    "k0_factor": 1,
+    "method": "finite_difference",
+    "temperature_rmse_K": 12.049841381053774,
+    "valid_fraction": 0.7746666666666666,
+    "boundary_fraction": 0.0,
+    "fallback_population_excess": 152.92469026691853
+  },
+  {
+    "noise_sd": 0.001,
+    "k0_factor": 1,
+    "method": "trajectory_fit",
+    "temperature_rmse_K": 7.19430685693574,
+    "valid_fraction": 1.0,
+    "boundary_fraction": 0.034,
+    "fallback_population_excess": 35.06323618086716
+  },
+  {
+    "noise_sd": 0,
+    "k0_factor": 0.9,
+    "method": "finite_difference",
+    "temperature_rmse_K": 1.3164415270227827,
+    "valid_fraction": 1.0,
+    "boundary_fraction": 0.0,
+    "fallback_population_excess": 1.0396569842635968
+  },
+  {
+    "noise_sd": 0,
+    "k0_factor": 0.9,
+    "method": "trajectory_fit",
+    "temperature_rmse_K": 1.2728751460260959,
+    "valid_fraction": 1.0,
+    "boundary_fraction": 0.0,
+    "fallback_population_excess": 1.142486232002224
+  },
+  {
+    "noise_sd": 0,
+    "k0_factor": 1.1,
+    "method": "finite_difference",
+    "temperature_rmse_K": 1.1829240176862101,
+    "valid_fraction": 1.0,
+    "boundary_fraction": 0.0,
+    "fallback_population_excess": 0.7816079219762303
+  },
+  {
+    "noise_sd": 0,
+    "k0_factor": 1.1,
+    "method": "trajectory_fit",
+    "temperature_rmse_K": 1.142793930845431,
+    "valid_fraction": 1.0,
+    "boundary_fraction": 0.0,
+    "fallback_population_excess": 0.8100261130478398
+  }
+]
