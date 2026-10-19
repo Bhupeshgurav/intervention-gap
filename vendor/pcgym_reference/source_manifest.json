@@ -1,0 +1,22 @@
+{
+  "repository": "https://github.com/MaximilianB2/pc-gym",
+  "commit": "fbfb36bf84b494cd157cff88292e1fd1b864cee5",
+  "commit_date": "2026-09-27T18:06:14Z",
+  "files": {
+    "model_classes.py": {
+      "url": "https://raw.githubusercontent.com/MaximilianB2/pc-gym/fbfb36bf84b494cd157cff88292e1fd1b864cee5/src/pcgym/model_classes.py",
+      "bytes": 53390,
+      "sha256": "e052d3b73ea49b60e26d0826eaa276547acc3a914142d1e79f119c96cac88ac6"
+    },
+    "LICENSE": {
+      "url": "https://raw.githubusercontent.com/MaximilianB2/pc-gym/fbfb36bf84b494cd157cff88292e1fd1b864cee5/LICENSE",
+      "bytes": 1073,
+      "sha256": "377b96254b4667d3b6e33a21fe563c4d1803656350f92e1e198656e3d27dc58c"
+    },
+    "README.upstream.md": {
+      "url": "https://raw.githubusercontent.com/MaximilianB2/pc-gym/fbfb36bf84b494cd157cff88292e1fd1b864cee5/README.md",
+      "bytes": 4076,
+      "sha256": "af0602bdc97fa026703aebfa1c38307ffc074761c74caa91446a1999db413a0a"
+    }
+  }
+}

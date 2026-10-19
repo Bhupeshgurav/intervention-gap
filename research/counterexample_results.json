@@ -1,0 +1,121 @@
+{
+  "status": "exact analytic toy enumeration; no training or real data",
+  "equations": [
+    "P(S=1)=0.5",
+    "P(A=S)=q",
+    "Y=5+10*S-2*A"
+  ],
+  "limitations": [
+    "Observed telemetry is uninformative by construction.",
+    "Both actions have positive probability at each severity for q<1.",
+    "This is established confounding, not a novel theorem.",
+    "This does not show failure of any Celesnity model."
+  ],
+  "illustrative_q_0_9": {
+    "operator_matches_hidden_severity_probability": 0.9,
+    "observation_only_mse": 18.0,
+    "action_conditioned_mse": 9.0,
+    "relative_mse_reduction": 0.5,
+    "observational_expected_y_no_action": 6.0,
+    "observational_expected_y_action": 12.0,
+    "observational_effect": 6.0,
+    "interventional_expected_y_no_action": 10.0,
+    "interventional_expected_y_action": 8.0,
+    "true_effect": -2.0,
+    "observational_recommendation": 0,
+    "optimal_intervention": 1,
+    "decision_regret": 2.0
+  },
+  "policy_sweep": [
+    {
+      "operator_matches_hidden_severity_probability": 0.5,
+      "observation_only_mse": 26.0,
+      "action_conditioned_mse": 25.0,
+      "relative_mse_reduction": 0.038461538461538464,
+      "observational_expected_y_no_action": 10.0,
+      "observational_expected_y_action": 8.0,
+      "observational_effect": -2.0,
+      "interventional_expected_y_no_action": 10.0,
+      "interventional_expected_y_action": 8.0,
+      "true_effect": -2.0,
+      "observational_recommendation": 1,
+      "optimal_intervention": 1,
+      "decision_regret": 0.0
+    },
+    {
+      "operator_matches_hidden_severity_probability": 0.6,
+      "observation_only_mse": 24.0,
+      "action_conditioned_mse": 24.0,
+      "relative_mse_reduction": 0.0,
+      "observational_expected_y_no_action": 9.0,
+      "observational_expected_y_action": 9.0,
+      "observational_effect": 0.0,
+      "interventional_expected_y_no_action": 10.0,
+      "interventional_expected_y_action": 8.0,
+      "true_effect": -2.0,
+      "observational_recommendation": null,
+      "optimal_intervention": 1,
+      "decision_regret": null
+    },
+    {
+      "operator_matches_hidden_severity_probability": 0.7,
+      "observation_only_mse": 22.0,
+      "action_conditioned_mse": 21.0,
+      "relative_mse_reduction": 0.045454545454545456,
+      "observational_expected_y_no_action": 8.0,
+      "observational_expected_y_action": 10.0,
+      "observational_effect": 2.0,
+      "interventional_expected_y_no_action": 10.0,
+      "interventional_expected_y_action": 8.0,
+      "true_effect": -2.0,
+      "observational_recommendation": 0,
+      "optimal_intervention": 1,
+      "decision_regret": 2.0
+    },
+    {
+      "operator_matches_hidden_severity_probability": 0.8,
+      "observation_only_mse": 20.0,
+      "action_conditioned_mse": 16.0,
+      "relative_mse_reduction": 0.2,
+      "observational_expected_y_no_action": 7.0,
+      "observational_expected_y_action": 11.0,
+      "observational_effect": 4.0,
+      "interventional_expected_y_no_action": 10.0,
+      "interventional_expected_y_action": 8.0,
+      "true_effect": -2.0,
+      "observational_recommendation": 0,
+      "optimal_intervention": 1,
+      "decision_regret": 2.0
+    },
+    {
+      "operator_matches_hidden_severity_probability": 0.9,
+      "observation_only_mse": 18.0,
+      "action_conditioned_mse": 9.0,
+      "relative_mse_reduction": 0.5,
+      "observational_expected_y_no_action": 6.0,
+      "observational_expected_y_action": 12.0,
+      "observational_effect": 6.0,
+      "interventional_expected_y_no_action": 10.0,
+      "interventional_expected_y_action": 8.0,
+      "true_effect": -2.0,
+      "observational_recommendation": 0,
+      "optimal_intervention": 1,
+      "decision_regret": 2.0
+    },
+    {
+      "operator_matches_hidden_severity_probability": 0.99,
+      "observation_only_mse": 16.2,
+      "action_conditioned_mse": 0.99,
+      "relative_mse_reduction": 0.9388888888888889,
+      "observational_expected_y_no_action": 5.1,
+      "observational_expected_y_action": 12.9,
+      "observational_effect": 7.8,
+      "interventional_expected_y_no_action": 10.0,
+      "interventional_expected_y_action": 8.0,
+      "true_effect": -2.0,
+      "observational_recommendation": 0,
+      "optimal_intervention": 1,
+      "decision_regret": 2.0
+    }
+  ]
+}
